@@ -3,3 +3,4 @@
 // Improve gas estimation for transactions
 // Refactor contract to use EIP-712 signatures
 // Integrate with decentralized identity providers
+// Refactor reward pooling algorithm
