@@ -2,3 +2,4 @@
 // Integrate with external DeFi protocols
 // Add native support for staking rewards
 // Refactor contract to use EIP-712 signatures
+// Fix edge case in unstaking logic
