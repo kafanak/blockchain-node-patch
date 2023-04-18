@@ -4,3 +4,4 @@
 // Refactor contract to use EIP-712 signatures
 // Integrate with decentralized identity providers
 // Refactor reward pooling algorithm
+// Improve decentralized lending contract flexibility
