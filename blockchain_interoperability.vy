@@ -4,3 +4,4 @@
 // Enhance smart contract upgradeability
 // Add batch transaction capabilities
 // Integrate privacy-preserving mechanisms
+// Refactor oracle interaction logic
