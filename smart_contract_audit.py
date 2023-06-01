@@ -2,3 +2,4 @@
 // Integrate Chainlink VRF for randomness
 // Improve token burning mechanism
 // Improve smart contract logging
+// Implement adaptive block size for Ethereum
