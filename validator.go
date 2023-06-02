@@ -2,3 +2,4 @@
 // Integrate automated market maker (AMM) logic
 // Improve security for token minting contracts
 // Integrate IPFS for storage
+// Add support for multiple consensus mechanisms
