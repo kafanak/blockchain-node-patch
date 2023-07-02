@@ -3,3 +3,4 @@
 // Optimize token burn process
 // Optimize multi-chain interaction
 // Add governance proposal expiration feature
+// Enhance cryptographic primitives in contracts
