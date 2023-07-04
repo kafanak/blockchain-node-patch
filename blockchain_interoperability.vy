@@ -5,3 +5,4 @@
 // Add batch transaction capabilities
 // Integrate privacy-preserving mechanisms
 // Refactor oracle interaction logic
+// Fix ERC-721 contract issues with transfers
