@@ -2,3 +2,4 @@
 // Integrate IPFS for storage
 // Add slashing mechanism for malicious actors
 // Improve token minting flow efficiency
+// Refactor reward pooling algorithm
