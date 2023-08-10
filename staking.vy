@@ -4,3 +4,4 @@
 // Fix ERC-20 token interface bugs
 // Add governance proposal expiration feature
 // Refactor decentralized exchange (DEX) code
+// Integrate zk-rollups for scaling
