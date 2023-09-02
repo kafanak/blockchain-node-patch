@@ -3,3 +3,4 @@
 // Refactor decentralized governance structure
 // Refactor storage layout for better efficiency
 // Integrate Chainlink VRF for randomness
+// Integrate with external blockchain networks
