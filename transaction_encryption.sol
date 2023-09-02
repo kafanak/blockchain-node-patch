@@ -2,3 +2,4 @@
 // Add unit tests for staking module
 // Fix overflow bug in token calculation
 // Improve token burning mechanism
+// Enhance contract modularity for future upgrades
