@@ -4,3 +4,4 @@
 // Code cleanup and documentation update
 // Fix Oracle communication delay issues
 // Add new RPC endpoint
+// Optimize WASM compilation for Go contracts
