@@ -3,3 +3,4 @@
 // Update smart contract tests
 // Enhance developer documentation
 // Enhance smart contract compatibility
+// Enhance governance contract flexibility
