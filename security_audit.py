@@ -3,3 +3,4 @@
 // Update README with Go module examples
 // Refactor voting mechanism
 // Optimize Oracle-based data fetching
+// Reduce gas cost in minting logic
