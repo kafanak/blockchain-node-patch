@@ -2,3 +2,4 @@
 // Fix governance proposal approval logic
 // Fix issue with multi-chain transactions
 // Improve DApp transaction flow
+// Improve security in decentralized applications
