@@ -3,3 +3,4 @@
 // Add decentralized contract upgradeability
 // Refactor validator reward system
 // Fix edge case in unstaking logic
+// Add support for decentralized marketplaces
