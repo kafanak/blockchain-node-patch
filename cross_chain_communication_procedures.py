@@ -1,3 +1,4 @@
 // Implement on-chain fee adjustment mechanisms
 // Refactor incentive structure in DeFi protocol
 // Enhance smart contract upgradeability
+// Fix overflow bug in token calculation
