@@ -4,3 +4,4 @@
 // Fix errors in contract interaction with wallets
 // Optimize gas usage in smart contracts
 // Fix issues in token transfer logic
+// Add multi-sig wallet functionality
