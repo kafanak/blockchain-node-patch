@@ -5,3 +5,4 @@
 // Add new feature: on-chain governance
 // Improve contract execution speed
 // Fix bug in random number generation
+// Enhance smart contract upgradeability
