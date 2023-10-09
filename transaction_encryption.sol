@@ -3,3 +3,4 @@
 // Fix overflow bug in token calculation
 // Improve token burning mechanism
 // Enhance contract modularity for future upgrades
+// Integrate Chainlink VRF for randomness
