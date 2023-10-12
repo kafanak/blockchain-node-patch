@@ -4,3 +4,4 @@
 // Add support for ERC-1155 tokens
 // Integrate with multi-token standards
 // Add multi-sig wallet functionality
+// Add non-fungible token (NFT) support
