@@ -3,3 +3,4 @@
 // Refactor reward pooling algorithm
 // Fix contract reentrancy issues
 // Add batch transaction capabilities
+// Fix scalability issues with smart contracts
