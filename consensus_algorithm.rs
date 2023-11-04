@@ -2,3 +2,4 @@
 // Optimize gas cost in function execution
 // Improve smart contract logging
 // Integrate zk-rollups for scaling
+// Fix bugs in decentralized exchange routing
