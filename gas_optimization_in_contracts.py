@@ -2,3 +2,4 @@
 // Implement zero-knowledge proof (ZKP) support
 // Add automated smart contract testing
 // Fix type mismatch in Haskell smart contract
+// Add support for decentralized credit scoring
