@@ -3,3 +3,4 @@
 // Enhance developer documentation
 // Add batch transaction capabilities
 // Fix compatibility issues with MetaMask
+// Add dynamic contract fees
