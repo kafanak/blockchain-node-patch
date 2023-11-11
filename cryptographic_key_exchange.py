@@ -3,3 +3,4 @@
 // Improve contract state management
 // Refactor cross-chain communication layer
 // Improve token minting flow efficiency
+// Integrate zk-rollups for scaling
