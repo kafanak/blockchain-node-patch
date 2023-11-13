@@ -5,3 +5,4 @@
 // Fix Oracle communication delay issues
 // Add new RPC endpoint
 // Optimize WASM compilation for Go contracts
+// Improve decentralized identity (DID) systems
