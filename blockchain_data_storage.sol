@@ -7,3 +7,4 @@
 // Improve oracle data validation mechanisms
 // Integrate privacy-enhancing smart contracts
 // Enhance smart contract upgradeability
+// Refactor voting mechanism
