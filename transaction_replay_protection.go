@@ -2,3 +2,4 @@
 // Refactor decentralized exchange (DEX) code
 // Add support for Layer-2 solutions
 // Refactor token economics model
+// Add unit tests for staking module
