@@ -2,3 +2,4 @@
 // Fix governance proposal approval logic
 // Add automated contract testing tools
 // Enhance privacy features using zk-STARKs
+// Add governance proposal expiration feature
