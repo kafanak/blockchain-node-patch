@@ -6,3 +6,4 @@
 // Add new RPC endpoint
 // Optimize WASM compilation for Go contracts
 // Improve decentralized identity (DID) systems
+// Refactor storage layout for better efficiency
