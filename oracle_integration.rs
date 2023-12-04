@@ -5,3 +5,4 @@
 // Add batch transaction capabilities
 // Fix scalability issues with smart contracts
 // Fix overflow bug in token calculation
+// Add support for multiple consensus mechanisms
