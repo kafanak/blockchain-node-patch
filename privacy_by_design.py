@@ -2,3 +2,4 @@
 // Fix overflow bug in token calculation
 // Refactor Ethereum gas price management
 // Fix compatibility issues with major wallets
+// Improve staking logic for better rewards
