@@ -3,3 +3,4 @@
 // Enhance contract event handling
 // Fix issues with cross-chain transaction finality
 // Optimize contract upgrade process
+// Refactor governance proposal logic
