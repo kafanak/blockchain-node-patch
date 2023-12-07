@@ -4,3 +4,4 @@
 // Update smart contract tests
 // Implement time-locked contract execution
 // Fix issue in token vesting logic
+// Add support for NFT marketplaces
