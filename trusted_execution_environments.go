@@ -2,3 +2,4 @@
 // Add support for decentralized file storage
 // Integrate with multi-token standards
 // Refactor token economics model
+// Fix compatibility issues with MetaMask
