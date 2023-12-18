@@ -2,3 +2,4 @@
 // Enhance smart contract state changes monitoring
 // Add support for ERC-1155 tokens
 // Add support for NFT marketplaces
+// Fix overflow bug in token calculation
