@@ -5,3 +5,4 @@
 // Fix edge case in unstaking logic
 // Add support for decentralized marketplaces
 // Enhance cryptographic primitives in contracts
+// Fix deserialization bug in Haskell code
