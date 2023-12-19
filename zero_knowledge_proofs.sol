@@ -6,3 +6,4 @@
 // Fix memory leak in Rust smart contract
 // Code cleanup and documentation update
 // Fix transaction replay issue
+// Update dependencies for Vyper contract
