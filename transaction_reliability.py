@@ -3,3 +3,4 @@
 // Integrate with decentralized storage systems
 // Fix scalability issues with smart contracts
 // Fix ERC-1155 contract interactions
+// Refactor cross-chain communication layer
