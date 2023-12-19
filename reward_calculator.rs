@@ -4,3 +4,4 @@
 // Enhance smart contract upgradeability
 // Fix ERC-1155 contract interactions
 // Implement adaptive block size for Ethereum
+// Add governance proposal expiration feature
