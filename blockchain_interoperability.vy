@@ -8,3 +8,4 @@
 // Fix ERC-721 contract issues with transfers
 // Enhance contract initialization process
 // Fix issue with multi-chain transactions
+// Fix governance proposal approval logic
