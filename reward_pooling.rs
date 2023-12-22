@@ -2,3 +2,4 @@
 // Improve oracle data validation mechanisms
 // Optimize token withdrawal logic
 // Enhance privacy features using zk-STARKs
+// Improve contract modularity
