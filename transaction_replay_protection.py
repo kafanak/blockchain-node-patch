@@ -4,3 +4,4 @@
 // Refactor oracle interaction logic
 // Implement liquidity pool staking mechanism
 // Add multi-sig wallet functionality
+// Add support for ERC-721A tokens
