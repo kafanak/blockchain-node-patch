@@ -3,3 +3,4 @@
 // Refactor contract to use EIP-712 signatures
 // Implement price feed oracles for tokens
 // Refactor staking logic
+// Improve decentralized lending contract flexibility
