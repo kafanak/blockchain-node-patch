@@ -5,3 +5,4 @@
 // Add new RPC endpoint
 // Implement automatic transaction retries
 // Add automated token buyback mechanism
+// Implement delegation pattern
