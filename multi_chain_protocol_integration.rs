@@ -3,3 +3,4 @@
 // Optimize token minting flow
 // Optimize contract upgrade process
 // Fix compatibility issues with MetaMask
+// Enhance logging for better debugging
