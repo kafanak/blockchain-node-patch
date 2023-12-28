@@ -4,3 +4,4 @@
 // Improve smart contract logging
 // Add support for multi-signature wallet contracts
 // Refactor decentralized governance structure
+// Refactor reward pooling algorithm
