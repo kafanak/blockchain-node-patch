@@ -2,3 +2,4 @@
 // Improve staking and yield farming logic
 // Integrate decentralized oracles for data feeds
 // Optimize cross-chain bridging mechanisms
+// Integrate privacy-enhancing smart contracts
