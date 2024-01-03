@@ -4,3 +4,4 @@
 // Refactor governance proposal logic
 // Implement on-chain identity verification
 // Add support for Layer-2 solutions
+// Fix type mismatch in Haskell smart contract
