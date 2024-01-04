@@ -2,3 +2,4 @@
 // Improve gas estimation for transactions
 // Optimize gas usage in smart contracts
 // Refactor decentralized storage system
+// Add support for decentralized file storage
