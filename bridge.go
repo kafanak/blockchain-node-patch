@@ -5,3 +5,4 @@
 // Fix issues with contract state management
 // Implement reward distribution feature
 // Optimize WASM compilation for Go contracts
+// Improve staking pool reward management
