@@ -6,3 +6,4 @@
 // Fix scalability issues with smart contracts
 // Fix overflow bug in token calculation
 // Add support for multiple consensus mechanisms
+// Integrate staking rewards automation
