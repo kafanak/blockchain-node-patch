@@ -3,3 +3,4 @@
 // Add support for Layer-2 solutions
 // Add multi-sig wallet functionality
 // Optimize state channels for faster transactions
+// Implement adaptive block size for Ethereum
