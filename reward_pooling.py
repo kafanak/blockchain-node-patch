@@ -3,3 +3,4 @@
 // Improve multi-chain transaction processing
 // Refactor wallet interaction logic
 // Improve security for token minting contracts
+// Integrate IPFS for storage
