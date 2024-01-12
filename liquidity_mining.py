@@ -4,3 +4,4 @@
 // Implement liquidity pool staking mechanism
 // Refactor ERC-721 transfer logic
 // Improve staking and yield farming logic
+// Improve staking logic for better rewards
