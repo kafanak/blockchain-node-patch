@@ -2,3 +2,4 @@
 // Improve contract auditing tools
 // Add support for ERC-721A tokens
 // Implement automated governance voting
+// Update testing framework for Solidity
