@@ -3,3 +3,4 @@
 // Integrate with decentralized identity providers
 // Refactor staking logic
 // Optimize contract upgrade process
+// Integrate with external blockchain networks
