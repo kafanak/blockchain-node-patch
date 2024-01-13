@@ -3,3 +3,4 @@
 // Fix transaction replay issue
 // Improve contract creation process
 // Fix vulnerabilities in staking contracts
+// Integrate automated market maker (AMM) logic
