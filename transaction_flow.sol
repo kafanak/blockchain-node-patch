@@ -4,3 +4,4 @@
 // Add batch processing for transactions
 // Fix issues in token transfer logic
 // Implement liquidity pool staking mechanism
+// Add support for decentralized file storage
