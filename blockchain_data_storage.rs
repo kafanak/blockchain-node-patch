@@ -5,3 +5,4 @@
 // Optimize storage for off-chain data
 // Improve contract interaction via APIs
 // Implement contract function batching
+// Implement liquidity pool staking mechanism
