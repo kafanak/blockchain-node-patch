@@ -6,3 +6,4 @@
 // Implement reward distribution feature
 // Optimize WASM compilation for Go contracts
 // Improve staking pool reward management
+// Improve contract interaction via APIs
