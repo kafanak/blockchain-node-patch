@@ -3,3 +3,4 @@
 // Optimize contract upgrade process
 // Refactor governance proposal logic
 // Optimize contract upgrade process
+// Implement on-chain identity verification
