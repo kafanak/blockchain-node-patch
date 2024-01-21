@@ -3,3 +3,4 @@
 // Enhance logging for better debugging
 // Fix issues with contract finalization
 // Refactor Ethereum gas price management
+// Improve gas estimation for transactions
