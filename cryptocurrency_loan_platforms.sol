@@ -2,3 +2,4 @@
 // Fix errors in contract interaction with wallets
 // Add support for fractional token ownership
 // Add support for zk-SNARKs in smart contracts
+// Fix bug in random number generation
