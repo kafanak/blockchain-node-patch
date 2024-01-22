@@ -4,3 +4,4 @@
 // Implement adaptive block size for Ethereum
 // Refactor reward pooling algorithm
 // Implement emergency stop mechanism
+// Fix bugs in decentralized exchange routing
