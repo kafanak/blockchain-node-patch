@@ -4,3 +4,4 @@
 // Improve gas estimation for transactions
 // Add unit tests for staking module
 // Improve contract auditing tools
+// Fix ERC-1155 contract interactions
