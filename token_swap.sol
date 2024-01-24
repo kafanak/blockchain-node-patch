@@ -7,3 +7,4 @@
 // Implement on-chain identity verification
 // Add support for Layer-2 solutions
 // Integrate Chainlink VRF for randomness
+// Fix issues in token transfer logic
