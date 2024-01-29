@@ -4,3 +4,4 @@
 // Improve contract creation process
 // Fix vulnerabilities in staking contracts
 // Integrate automated market maker (AMM) logic
+// Implement zero-knowledge proof (ZKP) support
