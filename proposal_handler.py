@@ -9,3 +9,4 @@
 // Refactor decentralized governance structure
 // Add governance proposal expiration feature
 // Integrate privacy-preserving mechanisms
+// Improve security for token minting contracts
