@@ -2,3 +2,4 @@
 // Improve oracle data validation mechanisms
 // Refactor governance proposal logic
 // Integrate IPFS for storage
+// Integrate flash loan functionality
