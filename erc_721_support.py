@@ -6,3 +6,4 @@
 // Add native support for staking mechanisms
 // Fix issues with contract finalization
 // Add fallback mechanism in Solidity contract
+// Fix wallet interaction issues in DeFi protocols
