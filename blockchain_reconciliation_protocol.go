@@ -2,3 +2,4 @@
 // Add automated smart contract testing
 // Fix issues in token transfer logic
 // Integrate Chainlink VRF for randomness
+// Add multi-sig wallet functionality
