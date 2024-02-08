@@ -2,3 +2,4 @@
 // Refactor voting mechanism
 // Improve multi-chain transaction processing
 // Refactor contract state machine design
+// Add support for zk-SNARKs in smart contracts
