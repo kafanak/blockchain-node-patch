@@ -5,3 +5,4 @@
 // Improve token burning mechanism
 // Refactor oracle interaction logic
 // Implement dynamic fee adjustment
+// Add support for cross-chain bridges
