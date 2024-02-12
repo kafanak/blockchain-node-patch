@@ -3,3 +3,4 @@
 // Fix edge case in unstaking logic
 // Update smart contract tests
 // Enhance contract initialization process
+// Enhance contract upgrade process
