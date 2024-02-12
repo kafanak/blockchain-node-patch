@@ -3,3 +3,4 @@
 // Fix wallet interaction issues in DeFi protocols
 // Refactor token distribution mechanism
 // Implement liquidity pool staking mechanism
+// Refactor reward pooling algorithm
