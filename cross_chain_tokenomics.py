@@ -3,3 +3,4 @@
 // Integrate zk-SNARKs for enhanced privacy
 // Fix scalability issues with smart contracts
 // Improve scalability for smart contract platforms
+// Optimize gas usage in smart contracts
