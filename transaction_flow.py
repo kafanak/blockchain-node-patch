@@ -7,3 +7,4 @@
 // Fix data consistency issues in smart contracts
 // Enhance governance contract flexibility
 // Add multi-chain governance support
+// Add support for ERC-1155 tokens
