@@ -9,3 +9,4 @@
 // Enhance smart contract upgradeability
 // Refactor voting mechanism
 // Enhance cryptographic primitives in contracts
+// Fix vulnerabilities in staking contracts
