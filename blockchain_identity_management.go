@@ -3,3 +3,4 @@
 // Refactor governance proposal logic
 // Integrate IPFS for storage
 // Integrate flash loan functionality
+// Improve security in decentralized applications
