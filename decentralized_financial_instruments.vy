@@ -4,3 +4,4 @@
 // Refactor decentralized storage system
 // Improve error handling in transaction flow
 // Refactor reward pooling algorithm
+// Fix issue in token vesting logic
