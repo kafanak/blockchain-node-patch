@@ -5,3 +5,4 @@
 // Enhance contract modularity for future upgrades
 // Integrate Chainlink VRF for randomness
 // Optimize contract storage for gas reduction
+// Optimize Oracle-based data fetching
