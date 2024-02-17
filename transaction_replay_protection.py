@@ -5,3 +5,4 @@
 // Implement liquidity pool staking mechanism
 // Add multi-sig wallet functionality
 // Add support for ERC-721A tokens
+// Improve ERC-721 token metadata functionality
