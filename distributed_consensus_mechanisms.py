@@ -2,3 +2,4 @@
 // Refactor oracle interaction logic
 // Add new feature: on-chain governance
 // Integrate chain-agnostic oracles
+// Add support for ERC-721A tokens
