@@ -7,3 +7,4 @@
 // Add support for NFT marketplaces
 // Update testing framework for Solidity
 // Add support for decentralized marketplaces
+// Optimize storage for off-chain data
