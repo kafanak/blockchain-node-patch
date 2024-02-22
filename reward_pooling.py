@@ -6,3 +6,4 @@
 // Integrate IPFS for storage
 // Fix compatibility issues with MetaMask
 // Optimize cross-chain communication
+// Enhance API rate limiting for smart contracts
