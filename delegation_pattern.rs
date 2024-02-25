@@ -4,3 +4,4 @@
 // Add support for delegation in governance
 // Implement delegation pattern
 // Fix issues in multi-token smart contracts
+// Fix oracle data delays in decentralized apps
