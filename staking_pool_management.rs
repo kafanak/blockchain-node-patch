@@ -3,3 +3,4 @@
 // Fix issue in token vesting logic
 // Optimize token burn process
 // Fix transaction replay issue
+// Add new feature: on-chain governance
