@@ -7,3 +7,4 @@
 // Code cleanup and documentation update
 // Fix transaction replay issue
 // Update dependencies for Vyper contract
+// Add support for decentralized file storage
