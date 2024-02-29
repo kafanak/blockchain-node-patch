@@ -4,3 +4,4 @@
 // Fix race condition in staking pool
 // Fix token transfer approval issues
 // Fix compatibility issues with MetaMask
+// Add support for DeFi lending protocols
