@@ -3,3 +3,4 @@
 // Enhance smart contract upgradeability
 // Fix bug in random number generation
 // Enhance contract upgrade mechanism
+// Fix interoperability issues with other blockchains
