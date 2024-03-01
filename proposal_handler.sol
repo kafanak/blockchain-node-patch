@@ -2,3 +2,4 @@
 // Refactor decentralized governance structure
 // Fix compatibility issues with MetaMask
 // Refactor staking logic
+// Add support for fractional token ownership
