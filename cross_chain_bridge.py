@@ -3,3 +3,4 @@
 // Refactor storage layout for better efficiency
 // Improve cross-chain asset management
 // Implement contract function batching
+// Improve staking logic for better rewards
