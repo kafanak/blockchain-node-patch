@@ -3,3 +3,4 @@
 // Bugfix: incorrect reward calculation
 // Add slashing mechanism for malicious actors
 // Add support for yield farming rewards
+// Improve transaction batching efficiency
