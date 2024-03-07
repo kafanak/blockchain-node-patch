@@ -8,3 +8,4 @@
 // Enhance governance contract flexibility
 // Add multi-chain governance support
 // Add support for ERC-1155 tokens
+// Optimize oracle data fetching mechanism
