@@ -2,3 +2,4 @@
 // Improve scalability for smart contract platforms
 // Refactor token distribution mechanism
 // Fix transaction replay issue
+// Improve smart contract logging
