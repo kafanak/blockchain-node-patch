@@ -8,3 +8,4 @@
 // Refactor validator reward system
 // Refactor wallet interaction logic
 // Improve decentralized identity (DID) systems
+// Fix errors in contract interaction with wallets
