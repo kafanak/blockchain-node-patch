@@ -4,3 +4,4 @@
 // Refactor token economics model
 // Add unit tests for staking module
 // Add support for decentralized content distribution
+// Improve gas estimation for transactions
