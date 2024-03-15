@@ -5,3 +5,4 @@
 // Refactor governance token logic
 // Add support for decentralized credit scoring
 // Optimize gas cost in function execution
+// Fix race condition in staking pool
