@@ -3,3 +3,4 @@
 // Improve transaction batching efficiency
 // Enhance smart contract upgradeability
 // Implement automatic transaction retries
+// Update README with Go module examples
