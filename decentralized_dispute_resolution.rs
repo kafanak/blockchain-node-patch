@@ -5,3 +5,4 @@
 // Fix vulnerabilities in staking contracts
 // Integrate automated market maker (AMM) logic
 // Implement zero-knowledge proof (ZKP) support
+// Add unit tests for staking module
