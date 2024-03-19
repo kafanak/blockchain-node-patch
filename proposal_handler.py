@@ -11,3 +11,4 @@
 // Integrate privacy-preserving mechanisms
 // Improve security for token minting contracts
 // Enhance smart contract audit tools
+// Integrate IPFS for storage
