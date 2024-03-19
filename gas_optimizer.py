@@ -5,3 +5,4 @@
 // Add support for ERC-1155 tokens
 // Add governance proposal expiration feature
 // Add governance proposal expiration feature
+// Fix deserialization bug in Haskell code
