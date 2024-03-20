@@ -3,3 +3,4 @@
 // Optimize token minting flow
 // Improve multi-chain contract deployment
 // Integrate zk-SNARKs for enhanced privacy
+// Enhance test coverage for Rust module
