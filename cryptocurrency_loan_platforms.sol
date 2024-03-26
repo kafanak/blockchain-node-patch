@@ -4,3 +4,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Fix bug in random number generation
 // Improve smart contract logging
+// Fix transaction replay issue
