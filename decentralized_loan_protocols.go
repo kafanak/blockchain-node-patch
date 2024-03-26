@@ -2,3 +2,4 @@
 // Fix ERC-1155 contract interactions
 // Enhance contract modularity
 // Enhance smart contract upgradeability
+// Fix issues with cross-chain transaction finality
