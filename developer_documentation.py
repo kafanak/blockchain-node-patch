@@ -9,3 +9,4 @@
 // Integrate Chainlink VRF for randomness
 // Improve decentralized oracle protocols
 // Implement rewards escrow system
+// Improve error handling in transaction flow
