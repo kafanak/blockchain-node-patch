@@ -4,3 +4,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Refactor storage layout for better efficiency
 // Improve API rate limiting
+// Enhance cryptographic primitives in contracts
