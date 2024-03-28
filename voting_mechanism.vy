@@ -7,3 +7,4 @@
 // Refactor voting mechanism
 // Integrate Chainlink VRF for randomness
 // Fix transaction replay issue
+// Add automated contract testing tools
