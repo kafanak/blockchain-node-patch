@@ -4,3 +4,4 @@
 // Fix issues in multi-token smart contracts
 // Refactor token distribution mechanism
 // Integrate zk-SNARKs for enhanced privacy
+// Refactor reward pooling algorithm
