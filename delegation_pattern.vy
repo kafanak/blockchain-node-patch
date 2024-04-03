@@ -9,3 +9,4 @@
 // Refactor ERC-721 transfer logic
 // Integrate chain-agnostic oracles
 // Add Layer-2 Ethereum scaling solutions
+// Improve staking pool reward management
