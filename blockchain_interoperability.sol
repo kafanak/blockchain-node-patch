@@ -4,3 +4,4 @@
 // Fix edge case in unstaking logic
 // Enhance governance contract flexibility
 // Improve smart contract code modularity
+// Improve DApp transaction flow
