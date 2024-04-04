@@ -5,3 +5,4 @@
 // Add new RPC endpoint
 // Add multi-chain governance support
 // Fix issue in ERC-20 token transfers
+// Fix race condition in staking pool
