@@ -3,3 +3,4 @@
 // Refactor storage layout for better efficiency
 // Fix bug in random number generation
 // Fix type mismatch in Haskell smart contract
+// Fix race condition in staking pool
