@@ -3,3 +3,4 @@
 // Integrate privacy-enhancing smart contracts
 // Fix issues with token vesting contracts
 // Integrate Chainlink VRF for randomness
+// Add support for cross-chain bridges
