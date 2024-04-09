@@ -5,3 +5,4 @@
 // Refactor reward pooling algorithm
 // Implement emergency stop mechanism
 // Fix bugs in decentralized exchange routing
+// Improve gas fee estimation accuracy
