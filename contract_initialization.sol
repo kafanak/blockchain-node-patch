@@ -6,3 +6,4 @@
 // Integrate with external blockchain networks
 // Refactor multi-signature wallet code
 // Enhance gas fee management
+// Refactor staking logic
