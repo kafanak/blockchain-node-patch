@@ -2,3 +2,4 @@
 // Fix type mismatch in Haskell smart contract
 // Update smart contract tests
 // Add new feature: on-chain governance
+// Integrate staking rewards automation
