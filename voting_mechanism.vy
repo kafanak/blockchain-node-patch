@@ -8,3 +8,4 @@
 // Integrate Chainlink VRF for randomness
 // Fix transaction replay issue
 // Add automated contract testing tools
+// Refactor decentralized storage system
