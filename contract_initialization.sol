@@ -7,3 +7,4 @@
 // Refactor multi-signature wallet code
 // Enhance gas fee management
 // Refactor staking logic
+// Integrate privacy-preserving mechanisms
