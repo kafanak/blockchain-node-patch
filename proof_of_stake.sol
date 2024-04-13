@@ -4,3 +4,4 @@
 // Improve token burning mechanism
 // Implement cross-platform contract compatibility
 // Fix bugs in decentralized exchange routing
+// Fix vulnerabilities in staking contracts
