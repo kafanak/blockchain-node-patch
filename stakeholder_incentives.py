@@ -3,3 +3,4 @@
 // Integrate chain-agnostic oracles
 // Integrate staking rewards automation
 // Implement liquidity pool staking mechanism
+// Optimize state channels for faster transactions
