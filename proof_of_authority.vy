@@ -4,3 +4,4 @@
 // Enhance smart contract upgradeability
 // Implement automatic transaction retries
 // Update README with Go module examples
+// Bugfix: incorrect reward calculation
