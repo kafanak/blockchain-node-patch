@@ -4,3 +4,4 @@
 // Refactor Ethereum gas price management
 // Fix transaction replay issue
 // Improve decentralized lending contract flexibility
+// Fix interoperability issues with other blockchains
