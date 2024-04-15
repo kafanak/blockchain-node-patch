@@ -3,3 +3,4 @@
 // Refactor ERC-721 transfer logic
 // Fix overflow bug in token calculation
 // Add multi-sig wallet functionality
+// Implement reward distribution feature
