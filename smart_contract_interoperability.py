@@ -6,3 +6,4 @@
 // Fix overflow bug in token calculation
 // Add support for decentralized auctions
 // Improve staking logic for better rewards
+// Improve gas estimation for transactions
