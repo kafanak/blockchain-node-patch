@@ -3,3 +3,4 @@
 // Add dynamic contract upgrade mechanisms
 // Improve on-chain governance systems
 // Enhance smart contract compatibility
+// Add support for zk-SNARKs in smart contracts
