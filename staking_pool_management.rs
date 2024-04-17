@@ -4,3 +4,4 @@
 // Optimize token burn process
 // Fix transaction replay issue
 // Add new feature: on-chain governance
+// Integrate Chainlink oracles
