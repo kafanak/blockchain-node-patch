@@ -5,3 +5,4 @@
 // Integrate decentralized anonymous identity systems
 // Enhance contract event handling
 // Add support for cross-chain bridges
+// Integrate IPFS for storage
