@@ -4,3 +4,4 @@
 // Optimize oracle data fetching mechanism
 // Enhance developer documentation
 // Add support for zk-SNARKs in smart contracts
+// Fix compatibility with MetaMask
