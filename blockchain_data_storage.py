@@ -5,3 +5,4 @@
 // Refactor incentive structure in DeFi protocol
 // Improve contract creation process
 // Add native support for staking mechanisms
+// Fix errors in NFT minting logic
