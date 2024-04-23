@@ -4,3 +4,4 @@
 // Add governance proposal expiration feature
 // Improve token minting flow efficiency
 // Fix oracle data delays in decentralized apps
+// Refactor contract to use EIP-712 signatures
