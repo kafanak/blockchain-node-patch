@@ -3,3 +3,4 @@
 // Refactor wallet interaction logic
 // Enhance off-chain data processing
 // Fix scalability issues with smart contracts
+// Fix vulnerabilities in staking contracts
