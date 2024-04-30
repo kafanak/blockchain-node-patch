@@ -6,3 +6,4 @@
 // Enhance contract event handling
 // Add support for cross-chain bridges
 // Integrate IPFS for storage
+// Fix type mismatch in Haskell smart contract
