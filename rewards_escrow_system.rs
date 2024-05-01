@@ -6,3 +6,4 @@
 // Optimize decentralized oracle performance
 // Refactor token economics model
 // Add support for Layer-2 solutions
+// Refactor reward pooling algorithm
