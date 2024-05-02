@@ -7,3 +7,4 @@
 // Refactor reward pooling algorithm
 // Fix governance proposal approval logic
 // Enhance developer documentation
+// Fix issue with multi-chain transactions
