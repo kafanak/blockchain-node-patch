@@ -4,3 +4,4 @@
 // Refactor contract to use EIP-712 signatures
 // Fix edge case in unstaking logic
 // Refactor validator reward system
+// Improve on-chain governance systems
