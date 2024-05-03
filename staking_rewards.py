@@ -5,3 +5,4 @@
 // Fix governance proposal approval logic
 // Refactor decentralized storage system
 // Improve cross-chain asset management
+// Refactor multi-asset token management
