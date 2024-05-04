@@ -5,3 +5,4 @@
 // Fix bugs in decentralized exchange routing
 // Optimize hashing algorithm
 // Enhance contract initialization process
+// Improve token burning mechanism
