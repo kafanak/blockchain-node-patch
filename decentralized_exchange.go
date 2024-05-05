@@ -4,3 +4,4 @@
 // Integrate flash loan functionality
 // Optimize gas usage for contract deployment
 // Integrate Chainlink oracles
+// Add governance proposal expiration feature
