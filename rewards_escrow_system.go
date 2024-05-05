@@ -5,3 +5,4 @@
 // Refactor storage layout for better efficiency
 // Improve API rate limiting
 // Enhance cryptographic primitives in contracts
+// Add new feature: on-chain governance
