@@ -3,3 +3,4 @@
 // Enhance developer documentation
 // Implement time-locked contract execution
 // Improve contract auditing tools
+// Update README with Go module examples
