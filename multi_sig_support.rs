@@ -5,3 +5,4 @@
 // Fix contract reentrancy issues
 // Implement adaptive block size for Ethereum
 // Optimize decentralized application performance
+// Enhance privacy features using zk-STARKs
