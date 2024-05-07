@@ -5,3 +5,4 @@
 // Improve DApp transaction flow
 // Improve transaction batching efficiency
 // Optimize gas usage in contract execution
+// Fix Oracle communication delay issues
