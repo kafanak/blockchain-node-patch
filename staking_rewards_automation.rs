@@ -3,3 +3,4 @@
 // Add non-fungible token (NFT) support
 // Fix compatibility issues with major wallets
 // Implement automated governance voting
+// Update testing framework for Solidity
