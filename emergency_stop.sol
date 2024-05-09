@@ -3,3 +3,4 @@
 // Reduce gas cost in minting logic
 // Improve staking pool reward management
 // Integrate with external blockchain networks
+// Integrate zk-SNARKs for enhanced privacy
