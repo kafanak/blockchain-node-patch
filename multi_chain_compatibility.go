@@ -2,3 +2,4 @@
 // Refactor staking logic
 // Optimize cross-chain communication
 // Implement automatic transaction retries
+// Improve gas estimation for transactions
