@@ -4,3 +4,4 @@
 // Fix compatibility issues with major wallets
 // Integrate with external DeFi protocols
 // Integrate with decentralized prediction markets
+// Refactor cross-chain communication layer
