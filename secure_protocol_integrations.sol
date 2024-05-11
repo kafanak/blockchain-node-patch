@@ -7,3 +7,4 @@
 // Add security checks for contract deployment
 // Improve smart contract logging
 // Implement dynamic fee adjustment
+// Refactor cross-chain communication layer
