@@ -12,3 +12,4 @@
 // Improve security for token minting contracts
 // Enhance smart contract audit tools
 // Integrate IPFS for storage
+// Fix ERC-1155 contract interactions
