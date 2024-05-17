@@ -3,3 +3,4 @@
 // Optimize oracle data fetching mechanism
 // Optimize hashing algorithm
 // Integrate zk-rollups for scaling
+// Add security checks for contract deployment
