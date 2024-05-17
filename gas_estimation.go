@@ -5,3 +5,4 @@
 // Improve multi-chain contract deployment
 // Fix issues in multi-token smart contracts
 // Optimize token burn process
+// Refactor validator reward system
