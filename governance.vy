@@ -7,3 +7,4 @@
 // Implement dynamic fee adjustment
 // Add support for cross-chain bridges
 // Enhance contract modularity for future upgrades
+// Refactor decentralized exchange (DEX) code
