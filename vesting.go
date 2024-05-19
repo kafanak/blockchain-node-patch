@@ -9,3 +9,4 @@
 // Optimize token withdrawal logic
 // Improve decentralized exchange (DEX) liquidity
 // Enhance smart contract compatibility
+// Implement zero-knowledge proof (ZKP) support
