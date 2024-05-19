@@ -7,3 +7,4 @@
 // Implement contract function batching
 // Implement liquidity pool staking mechanism
 // Fix overflow bug in token calculation
+// Refactor governance proposal logic
