@@ -5,3 +5,4 @@
 // Enhance governance contract flexibility
 // Improve smart contract code modularity
 // Improve DApp transaction flow
+// Fix issues with contract finalization
