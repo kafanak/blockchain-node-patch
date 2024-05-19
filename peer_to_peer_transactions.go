@@ -2,3 +2,4 @@
 // Integrate Chainlink VRF for randomness
 // Improve token minting flow efficiency
 // Enhance governance contract flexibility
+// Code cleanup and documentation update
