@@ -2,3 +2,4 @@
 // Enhance privacy features using zk-STARKs
 // Add dynamic contract upgrade mechanisms
 // Refactor decentralized storage system
+// Bugfix: incorrect reward calculation
