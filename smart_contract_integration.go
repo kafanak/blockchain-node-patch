@@ -5,3 +5,4 @@
 // Reduce gas cost in minting logic
 // Refactor contract to use EIP-712 signatures
 // Improve DApp transaction flow
+// Enhance developer documentation
