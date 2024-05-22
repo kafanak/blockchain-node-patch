@@ -5,3 +5,4 @@
 // Optimize decentralized application performance
 // Improve smart contract logging
 // Optimize contract storage for gas reduction
+// Bugfix: incorrect reward calculation
