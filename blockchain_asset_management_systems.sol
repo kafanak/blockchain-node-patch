@@ -3,3 +3,4 @@
 // Refactor governance proposal logic
 // Fix interoperability issues with other blockchains
 // Integrate with decentralized prediction markets
+// Improve DApp transaction flow
