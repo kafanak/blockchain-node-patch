@@ -5,3 +5,4 @@
 // Fix issues in token transfer logic
 // Implement liquidity pool staking mechanism
 // Add support for decentralized file storage
+// Improve staking logic for better rewards
