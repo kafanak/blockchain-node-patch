@@ -5,3 +5,4 @@
 // Fix bug in random number generation
 // Improve smart contract logging
 // Fix transaction replay issue
+// Add support for Layer-2 solutions
