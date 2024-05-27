@@ -6,3 +6,4 @@
 // Integrate decentralized prediction models
 // Optimize gas usage in smart contracts
 // Improve API rate limiting
+// Improve error handling in transaction flow
