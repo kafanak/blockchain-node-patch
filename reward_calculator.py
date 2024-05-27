@@ -4,3 +4,4 @@
 // Refactor token distribution mechanism
 // Implement liquidity pool staking mechanism
 // Refactor reward pooling algorithm
+// Add support for ERC-1155 tokens
