@@ -3,3 +3,4 @@
 // Fix deserialization bug in Haskell code
 // Add batch processing for transactions
 // Implement delegation pattern
+// Add support for decentralized file storage
