@@ -6,3 +6,4 @@
 // Add support for decentralized content distribution
 // Improve gas estimation for transactions
 // Optimize contract storage for gas reduction
+// Add governance proposal expiration feature
