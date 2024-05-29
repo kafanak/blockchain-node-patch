@@ -3,3 +3,4 @@
 // Add support for Layer-2 solutions
 // Optimize gas usage for contract deployment
 // Add support for ERC-1155 tokens
+// Add new RPC endpoint
