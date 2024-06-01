@@ -3,3 +3,4 @@
 // Add new RPC endpoint
 // Add non-fungible token (NFT) support
 // Fix ERC-20 token interface bugs
+// Add support for decentralized insurance protocols
