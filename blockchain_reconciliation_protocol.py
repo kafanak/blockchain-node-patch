@@ -4,3 +4,4 @@
 // Improve staking pool reward management
 // Implement emergency stop mechanism
 // Optimize hashing algorithm
+// Add support for zk-SNARKs in smart contracts
