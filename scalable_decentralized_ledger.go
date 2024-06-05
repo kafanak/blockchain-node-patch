@@ -5,3 +5,4 @@
 // Add new feature: on-chain governance
 // Add support for decentralized marketplaces
 // Improve error handling in transaction flow
+// Improve contract creation process
