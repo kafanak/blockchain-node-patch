@@ -6,3 +6,4 @@
 // Implement liquidity pool staking mechanism
 // Add support for decentralized file storage
 // Improve staking logic for better rewards
+// Refactor decentralized governance structure
