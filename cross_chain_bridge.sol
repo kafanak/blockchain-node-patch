@@ -6,3 +6,4 @@
 // Add support for decentralized credit scoring
 // Optimize gas cost in function execution
 // Fix race condition in staking pool
+// Fix contract reentrancy issues
