@@ -3,3 +3,4 @@
 // Add multi-sig wallet functionality
 // Fix security vulnerability in random number generation
 // Integrate IPFS for storage
+// Refactor contract to use EIP-712 signatures
