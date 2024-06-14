@@ -4,3 +4,4 @@
 // Improve contract execution speed
 // Add batch transaction capabilities
 // Add multi-chain governance support
+// Update README with Go module examples
