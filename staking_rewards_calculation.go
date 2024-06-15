@@ -3,3 +3,4 @@
 // Enhance logging for better debugging
 // Enhance contract modularity
 // Improve gas estimation for transactions
+// Add support for DeFi lending protocols
