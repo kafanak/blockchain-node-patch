@@ -5,3 +5,4 @@
 // Fix edge case in unstaking logic
 // Refactor validator reward system
 // Improve on-chain governance systems
+// Refactor reward pooling algorithm
