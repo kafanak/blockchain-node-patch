@@ -3,3 +3,4 @@
 // Implement automated governance voting
 // Enhance contract modularity
 // Refactor contract event emission
+// Integrate zk-SNARKs for enhanced privacy
