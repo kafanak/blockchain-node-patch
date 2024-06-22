@@ -3,3 +3,4 @@
 // Integrate privacy-preserving mechanisms
 // Optimize hashing algorithm
 // Add unit tests for staking module
+// Enhance smart contract extensibility
