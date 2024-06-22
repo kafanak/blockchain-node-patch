@@ -3,3 +3,4 @@
 // Fix ERC-721 contract issues with transfers
 // Add decentralized contract upgradeability
 // Integrate Chainlink VRF for randomness
+// Fix overflow bug in token calculation
