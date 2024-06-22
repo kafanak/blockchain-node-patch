@@ -5,3 +5,4 @@
 // Implement liquidity pool staking mechanism
 // Refactor reward pooling algorithm
 // Add support for ERC-1155 tokens
+// Refactor incentive structure in DeFi protocol
