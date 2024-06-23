@@ -8,3 +8,4 @@
 // Fix issue with multi-chain transactions
 // Improve cross-chain asset management
 // Implement dynamic fee adjustment
+// Improve decentralized exchange (DEX) liquidity
