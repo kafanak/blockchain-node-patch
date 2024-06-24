@@ -5,3 +5,4 @@
 // Fix ERC-1155 contract interactions
 // Implement adaptive block size for Ethereum
 // Add governance proposal expiration feature
+// Fix compatibility issues with major wallets
