@@ -12,3 +12,4 @@
 // Fix issues in token transfer logic
 // Add governance proposal expiration feature
 // Fix contract reentrancy issues
+// Integrate decentralized prediction models
