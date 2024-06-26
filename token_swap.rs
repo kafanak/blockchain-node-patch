@@ -4,3 +4,4 @@
 // Add support for multiple consensus mechanisms
 // Optimize gas usage in smart contracts
 // Refactor contract event emission
+// Optimize gas usage for contract deployment
