@@ -9,3 +9,4 @@
 // Add support for delegation in governance
 // Optimize token burn process
 // Enhance governance contract flexibility
+// Improve error handling in transaction flow
