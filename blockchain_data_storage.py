@@ -6,3 +6,4 @@
 // Improve contract creation process
 // Add native support for staking mechanisms
 // Fix errors in NFT minting logic
+// Add governance proposal expiration feature
