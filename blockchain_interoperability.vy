@@ -12,3 +12,4 @@
 // Add gas optimization features for smart contracts
 // Refactor staking logic
 // Optimize token burn process
+// Fix ERC-20 token interface bugs
