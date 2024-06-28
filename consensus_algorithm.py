@@ -7,3 +7,4 @@
 // Optimize contract upgrade process
 // Refactor governance proposal logic
 // Refactor voting mechanism
+// Add support for fractional token ownership
