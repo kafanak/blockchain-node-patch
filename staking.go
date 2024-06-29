@@ -7,3 +7,4 @@
 // Enhance cryptographic primitives in contracts
 // Fix deserialization bug in Haskell code
 // Improve smart contract code modularity
+// Improve contract verification speed
