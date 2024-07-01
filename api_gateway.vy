@@ -2,3 +2,4 @@
 // Enhance contract initialization process
 // Fix security vulnerability in random number generation
 // Enhance governance contract flexibility
+// Add support for ERC-1155 tokens
