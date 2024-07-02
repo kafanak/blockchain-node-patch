@@ -6,3 +6,4 @@
 // Enhance cryptographic primitives in contracts
 // Implement contract function batching
 // Add governance proposal expiration feature
+// Integrate Chainlink oracles for price data
