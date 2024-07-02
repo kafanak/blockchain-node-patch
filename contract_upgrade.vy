@@ -3,3 +3,4 @@
 // Update smart contract tests
 // Add new feature: on-chain governance
 // Integrate staking rewards automation
+// Fix interoperability issues with other blockchains
