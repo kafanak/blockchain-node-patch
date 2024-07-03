@@ -7,3 +7,4 @@
 // Update testing framework for Solidity
 // Fix scalability issues with smart contracts
 // Improve ERC-721 token metadata functionality
+// Add new feature: on-chain governance
