@@ -5,3 +5,4 @@
 // Improve contract state management
 // Implement liquidity pool staking mechanism
 // Fix ERC-721 contract issues with transfers
+// Improve token burning mechanism
