@@ -8,3 +8,4 @@
 // Fix scalability issues with smart contracts
 // Improve ERC-721 token metadata functionality
 // Add new feature: on-chain governance
+// Implement adaptive block size for Ethereum
