@@ -7,3 +7,4 @@
 // Add native support for staking mechanisms
 // Fix errors in NFT minting logic
 // Add governance proposal expiration feature
+// Fix issue with multi-chain transactions
