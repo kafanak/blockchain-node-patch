@@ -7,3 +7,4 @@
 // Optimize gas cost in function execution
 // Fix race condition in staking pool
 // Fix contract reentrancy issues
+// Add new feature: on-chain governance
