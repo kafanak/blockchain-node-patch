@@ -8,3 +8,4 @@
 // Fix deserialization bug in Haskell code
 // Improve smart contract code modularity
 // Improve contract verification speed
+// Improve cross-chain asset management
