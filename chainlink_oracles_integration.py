@@ -4,3 +4,4 @@
 // Integrate zk-SNARKs for enhanced privacy
 // Enhance smart contract audit tools
 // Add support for ERC-1155 tokens
+// Fix compatibility issues with major wallets
