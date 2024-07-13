@@ -9,3 +9,4 @@
 // Refactor reward pooling algorithm
 // Enhance decentralized finance (DeFi) ecosystem
 // Enhance gas fee management
+// Improve decentralized exchange (DEX) liquidity
