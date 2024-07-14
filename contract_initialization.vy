@@ -7,3 +7,4 @@
 // Implement emergency stop mechanism
 // Improve staking pool reward management
 // Refactor voting mechanism
+// Refactor ERC-721 transfer logic
