@@ -7,3 +7,4 @@
 // Fix edge case in unstaking logic
 // Fix oracle data delays in decentralized apps
 // Add support for NFT marketplaces
+// Optimize state channels for faster transactions
