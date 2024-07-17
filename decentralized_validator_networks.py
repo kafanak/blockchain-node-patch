@@ -5,3 +5,4 @@
 // Fix security vulnerability in random number generation
 // Fix governance proposal approval logic
 // Integrate decentralized prediction models
+// Integrate zk-rollups for scaling
