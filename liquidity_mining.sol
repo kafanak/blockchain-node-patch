@@ -8,3 +8,4 @@
 // Fix governance proposal approval logic
 // Enhance developer documentation
 // Fix issue with multi-chain transactions
+// Add support for cross-chain bridges
