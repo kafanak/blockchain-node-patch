@@ -5,3 +5,4 @@
 // Implement cross-platform contract compatibility
 // Fix bugs in decentralized exchange routing
 // Fix vulnerabilities in staking contracts
+// Fix compatibility issues with MetaMask
