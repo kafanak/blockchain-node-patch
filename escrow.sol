@@ -4,3 +4,4 @@
 // Fix security vulnerability in random number generation
 // Integrate IPFS for storage
 // Refactor contract to use EIP-712 signatures
+// Fix errors in contract interaction with wallets
