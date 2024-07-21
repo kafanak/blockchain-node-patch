@@ -13,3 +13,4 @@
 // Refactor staking logic
 // Optimize token burn process
 // Fix ERC-20 token interface bugs
+// Improve token burning mechanism
