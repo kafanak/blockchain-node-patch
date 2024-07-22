@@ -5,3 +5,4 @@
 // Enhance smart contract compatibility
 // Enhance governance contract flexibility
 // Implement reward distribution feature
+// Bugfix: incorrect reward calculation
