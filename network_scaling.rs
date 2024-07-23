@@ -4,3 +4,4 @@
 // Fix issue in ERC-20 token transfers
 // Refactor multi-asset token management
 // Integrate chain-agnostic oracles
+// Reduce gas cost in minting logic
