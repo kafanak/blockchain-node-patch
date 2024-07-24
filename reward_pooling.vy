@@ -8,3 +8,4 @@
 // Add support for fractional token ownership
 // Improve oracle data validation mechanisms
 // Bugfix: incorrect reward calculation
+// Implement rewards escrow system
