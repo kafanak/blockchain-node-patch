@@ -8,3 +8,4 @@
 // Fix errors in NFT minting logic
 // Optimize hashing algorithm
 // Fix issues in token transfer logic
+// Integrate privacy-preserving mechanisms
