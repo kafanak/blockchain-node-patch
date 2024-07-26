@@ -9,3 +9,4 @@
 // Fix ERC-721 contract issues with transfers
 // Fix vulnerabilities in staking contracts
 // Fix security vulnerability in random number generation
+// Integrate with multi-token standards
