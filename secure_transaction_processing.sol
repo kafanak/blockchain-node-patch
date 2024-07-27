@@ -3,3 +3,4 @@
 // Add new feature: on-chain governance
 // Implement a new contract event system
 // Implement rewards escrow system
+// Implement time-locked contract execution
