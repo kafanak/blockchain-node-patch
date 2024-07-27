@@ -2,3 +2,4 @@
 // Improve token minting flow efficiency
 // Enhance gas fee management
 // Integrate automated market maker (AMM) logic
+// Enhance governance contract flexibility
