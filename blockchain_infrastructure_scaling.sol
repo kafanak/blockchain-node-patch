@@ -3,3 +3,4 @@
 // Fix issues in token transfer logic
 // Improve gas estimation for transactions
 // Add support for zk-SNARKs in smart contracts
+// Integrate Chainlink VRF for randomness
