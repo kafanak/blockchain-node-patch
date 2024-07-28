@@ -6,3 +6,4 @@
 // Refactor decentralized governance structure
 // Improve on-chain governance systems
 // Add support for multi-signature wallet contracts
+// Update README with Go module examples
