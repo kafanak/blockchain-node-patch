@@ -5,3 +5,4 @@
 // Add support for decentralized file storage
 // Add new RPC endpoint
 // Add support for fractional token ownership
+// Implement cross-platform contract compatibility
