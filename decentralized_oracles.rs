@@ -4,3 +4,4 @@
 // Integrate staking rewards automation
 // Fix ERC-721 contract issues with transfers
 // Add batch transaction capabilities
+// Add unit tests for staking module
