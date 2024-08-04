@@ -4,3 +4,4 @@
 // Optimize multi-chain interaction
 // Improve staking and yield farming logic
 // Improve contract state management
+// Add governance proposal expiration feature
