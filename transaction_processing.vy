@@ -6,3 +6,4 @@
 // Fix compatibility issues with MetaMask
 // Add support for DeFi lending protocols
 // Optimize hashing algorithm
+// Enhance gas fee management
