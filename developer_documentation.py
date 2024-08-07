@@ -11,3 +11,4 @@
 // Implement rewards escrow system
 // Improve error handling in transaction flow
 // Fix ERC-20 token interface bugs
+// Add governance proposal expiration feature
