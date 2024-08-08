@@ -3,3 +3,4 @@
 // Update testing framework for Solidity
 // Integrate Chainlink VRF for randomness
 // Refactor smart contract testing framework
+// Enhance governance contract flexibility
