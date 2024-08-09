@@ -7,3 +7,4 @@
 // Implement price feed oracles for tokens
 // Fix errors in contract interaction with wallets
 // Enhance contract interaction APIs
+// Add support for zk-SNARKs in smart contracts
