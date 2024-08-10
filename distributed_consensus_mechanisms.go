@@ -3,3 +3,4 @@
 // Refactor staking logic
 // Update testing framework for Solidity
 // Integrate IPFS for storage
+// Improve smart contract logging
