@@ -4,3 +4,4 @@
 // Fix issues with contract finalization
 // Refactor Ethereum gas price management
 // Improve gas estimation for transactions
+// Fix deserialization bug in Haskell code
