@@ -9,3 +9,4 @@
 // Improve token minting flow efficiency
 // Optimize gas usage in smart contracts
 // Refactor multi-signature wallet code
+// Integrate zk-rollups for scaling
