@@ -4,3 +4,4 @@
 // Fix issue with multi-chain transactions
 // Add Layer-2 Ethereum scaling solutions
 // Improve contract modularity
+// Improve ERC-721 token metadata functionality
