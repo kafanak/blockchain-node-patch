@@ -4,3 +4,4 @@
 // Fix transaction replay issue
 // Improve smart contract logging
 // Add new RPC endpoint
+// Fix interoperability issues with other blockchains
