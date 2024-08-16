@@ -3,3 +3,4 @@
 // Add support for ERC-1155 tokens
 // Enhance contract state verification
 // Improve contract creation process
+// Add governance proposal expiration feature
