@@ -4,3 +4,4 @@
 // Improve contract creation process
 // Optimize contract upgrade process
 // Refactor incentive structure in DeFi protocol
+// Fix compatibility issues with MetaMask
