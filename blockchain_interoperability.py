@@ -3,3 +3,4 @@
 // Improve staking and yield farming logic
 // Implement on-chain fee adjustment mechanisms
 // Fix race condition in staking pool
+// Fix token transfer approval issues
