@@ -3,3 +3,4 @@
 // Enhance governance contract flexibility
 // Improve contract state management
 // Add support for decentralized insurance protocols
+// Add unit tests for staking module
