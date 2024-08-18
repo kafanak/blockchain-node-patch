@@ -5,3 +5,4 @@
 // Improve error handling in transaction flow
 // Optimize WASM compilation for Go contracts
 // Refactor validator reward system
+// Improve token burning mechanism
