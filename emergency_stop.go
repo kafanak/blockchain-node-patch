@@ -7,3 +7,4 @@
 // Improve on-chain governance systems
 // Add support for multi-signature wallet contracts
 // Update README with Go module examples
+// Add support for yield farming rewards
