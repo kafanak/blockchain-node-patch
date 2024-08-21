@@ -9,3 +9,4 @@
 // Improve oracle data validation mechanisms
 // Refactor staking logic
 // Refactor incentive structure in DeFi protocol
+// Integrate multi-chain liquidity pools
