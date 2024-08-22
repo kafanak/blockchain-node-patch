@@ -10,3 +10,4 @@
 // Optimize gas usage in smart contracts
 // Refactor multi-signature wallet code
 // Integrate zk-rollups for scaling
+// Integrate IPFS for storage
