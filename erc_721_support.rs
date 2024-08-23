@@ -5,3 +5,4 @@
 // Improve staking pool reward management
 // Optimize WASM compilation for Go contracts
 // Implement rewards escrow system
+// Implement cross-chain bridge
