@@ -4,3 +4,4 @@
 // Refactor voting mechanism
 // Add support for Layer-2 solutions
 // Implement delegation pattern
+// Refactor incentive structure in DeFi protocol
