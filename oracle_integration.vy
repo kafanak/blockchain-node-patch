@@ -5,3 +5,4 @@
 // Improve staking and yield farming logic
 // Improve contract state management
 // Add governance proposal expiration feature
+// Add new RPC endpoint
