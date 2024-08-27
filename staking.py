@@ -7,3 +7,4 @@
 // Improve security for token minting contracts
 // Improve multi-chain contract deployment
 // Implement delegation pattern
+// Integrate IPFS for storage
