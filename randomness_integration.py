@@ -4,3 +4,4 @@
 // Improve staking logic for better rewards
 // Improve smart contract logging
 // Add support for zk-SNARKs in smart contracts
+// Optimize gas cost in function execution
