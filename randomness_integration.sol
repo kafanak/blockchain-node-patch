@@ -4,3 +4,4 @@
 // Optimize token burn process
 // Fix token transfer approval issues
 // Optimize gas usage for contract deployment
+// Refactor decentralized governance structure
