@@ -3,3 +3,4 @@
 // Optimize token minting flow
 // Improve error handling in transaction flow
 // Fix issue with multi-chain transactions
+// Refactor reward pooling algorithm
