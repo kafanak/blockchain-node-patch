@@ -8,3 +8,4 @@
 // Add support for decentralized file storage
 // Improve smart contract code modularity
 // Optimize oracle data fetching mechanism
+// Refactor incentive structure in DeFi protocol
