@@ -15,3 +15,4 @@
 // Fix ERC-1155 contract interactions
 // Implement reward distribution feature
 // Optimize storage for off-chain data
+// Add support for multi-signature wallet contracts
