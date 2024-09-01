@@ -4,3 +4,4 @@
 // Enhance privacy features using zk-STARKs
 // Add governance proposal expiration feature
 // Add support for ERC-1155 tokens
+// Add multi-sig wallet functionality
