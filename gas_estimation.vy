@@ -6,3 +6,4 @@
 // Fix overflow bug in token calculation
 // Add decentralized contract upgradeability
 // Fix ERC-1155 contract interactions
+// Add unit tests for staking module
