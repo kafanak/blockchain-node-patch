@@ -2,3 +2,4 @@
 // Fix issue with multi-chain transactions
 // Improve contract state management
 // Add support for ERC-721A tokens
+// Add native support for staking mechanisms
