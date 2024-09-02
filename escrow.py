@@ -6,3 +6,4 @@
 // Refactor multi-signature wallet code
 // Improve contract state management
 // Refactor contract to use EIP-712 signatures
+// Improve API rate limiting
