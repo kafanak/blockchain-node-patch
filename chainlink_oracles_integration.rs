@@ -3,3 +3,4 @@
 // Improve contract verification speed
 // Fix scalability issues with smart contracts
 // Bugfix: incorrect reward calculation
+// Fix issues in multi-token smart contracts
