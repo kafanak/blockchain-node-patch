@@ -10,3 +10,4 @@
 // Refactor staking logic
 // Optimize gas usage in contract execution
 // Fix token transfer approval issues
+// Add governance proposal expiration feature
