@@ -4,3 +4,4 @@
 // Fix errors in NFT minting logic
 // Fix bugs in decentralized exchange routing
 // Improve gas fee estimation accuracy
+// Improve staking and yield farming logic
