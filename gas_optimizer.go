@@ -7,3 +7,4 @@
 // Fix issue in ERC-20 token transfers
 // Fix race condition in staking pool
 // Add automated token buyback mechanism
+// Fix oracle data delays in decentralized apps
