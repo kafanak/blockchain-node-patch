@@ -2,3 +2,4 @@
 // Enhance governance contract flexibility
 // Update testing framework for Solidity
 // Fix bug in random number generation
+// Refactor staking logic
