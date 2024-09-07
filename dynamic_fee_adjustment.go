@@ -8,3 +8,4 @@
 // Add support for batch transaction processing
 // Add multi-sig wallet functionality
 // Add multi-sig wallet functionality
+// Fix vulnerabilities in staking contracts
