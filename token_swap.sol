@@ -9,3 +9,4 @@
 // Integrate Chainlink VRF for randomness
 // Fix issues in token transfer logic
 // Implement rewards escrow system
+// Refactor validator reward system
