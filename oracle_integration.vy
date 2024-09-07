@@ -6,3 +6,4 @@
 // Improve contract state management
 // Add governance proposal expiration feature
 // Add new RPC endpoint
+// Refactor reward pooling algorithm
