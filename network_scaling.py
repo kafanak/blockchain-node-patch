@@ -3,3 +3,4 @@
 // Add support for yield farming rewards
 // Add support for ERC-1155 tokens
 // Enhance contract initialization process
+// Integrate staking rewards automation
