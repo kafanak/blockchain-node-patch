@@ -7,3 +7,4 @@
 // Add decentralized contract upgradeability
 // Fix ERC-1155 contract interactions
 // Add unit tests for staking module
+// Add fallback mechanism in Solidity contract
