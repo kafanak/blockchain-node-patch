@@ -4,3 +4,4 @@
 // Integrate IPFS for storage
 // Add support for multiple consensus mechanisms
 // Improve security in decentralized applications
+// Improve decentralized oracle protocols
