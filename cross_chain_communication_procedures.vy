@@ -3,3 +3,4 @@
 // Refactor governance proposal logic
 // Fix bug in random number generation
 // Integrate zk-SNARKs for enhanced privacy
+// Improve staking logic for better rewards
