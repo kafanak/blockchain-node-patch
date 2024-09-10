@@ -4,3 +4,4 @@
 // Fix errors in NFT minting logic
 // Fix issues with contract state management
 // Add security checks for contract deployment
+// Enhance privacy features using zk-STARKs
