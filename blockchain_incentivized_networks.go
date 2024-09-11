@@ -5,3 +5,4 @@
 // Fix compatibility with MetaMask
 // Upgrade to latest Solidity version
 // Improve gas estimation for transactions
+// Fix ERC-1155 contract interactions
