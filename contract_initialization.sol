@@ -9,3 +9,4 @@
 // Refactor staking logic
 // Integrate privacy-preserving mechanisms
 // Refactor multi-signature wallet code
+// Integrate automated market maker (AMM) logic
