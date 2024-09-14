@@ -2,3 +2,4 @@
 // Add support for decentralized insurance protocols
 // Fix issue in token vesting logic
 // Improve contract execution performance
+// Add support for fractional token ownership
