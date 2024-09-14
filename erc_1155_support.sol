@@ -3,3 +3,4 @@
 // Enhance smart contract compatibility
 // Fix token transfer approval issues
 // Fix memory optimization issues in contracts
+// Improve DApp transaction flow
