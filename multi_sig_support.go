@@ -8,3 +8,4 @@
 // Fix errors in contract interaction with wallets
 // Enhance contract interaction APIs
 // Add support for zk-SNARKs in smart contracts
+// Improve gas fee estimation accuracy
