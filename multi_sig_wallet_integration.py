@@ -4,3 +4,4 @@
 // Fix overflow bug in token calculation
 // Add multi-sig wallet functionality
 // Implement reward distribution feature
+// Fix contract reentrancy issues
