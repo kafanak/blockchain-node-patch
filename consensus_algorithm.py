@@ -8,3 +8,4 @@
 // Refactor governance proposal logic
 // Refactor voting mechanism
 // Add support for fractional token ownership
+// Enhance contract initialization process
