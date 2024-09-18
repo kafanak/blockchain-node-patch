@@ -6,3 +6,4 @@
 // Improve smart contract logging
 // Optimize contract storage for gas reduction
 // Bugfix: incorrect reward calculation
+// Add support for DeFi lending protocols
