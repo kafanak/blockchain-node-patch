@@ -8,3 +8,4 @@
 // Improve transaction batching efficiency
 // Refactor oracle interaction logic
 // Enhance privacy features using zk-STARKs
+// Implement reward distribution feature
