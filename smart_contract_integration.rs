@@ -8,3 +8,4 @@
 // Improve decentralized identity (DID) systems
 // Refactor storage layout for better efficiency
 // Refactor incentive structure in DeFi protocol
+// Refactor staking logic
