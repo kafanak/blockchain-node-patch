@@ -4,3 +4,4 @@
 // Fix bug in random number generation
 // Improve staking logic for better rewards
 // Fix governance proposal approval logic
+// Refactor contract to use EIP-712 signatures
