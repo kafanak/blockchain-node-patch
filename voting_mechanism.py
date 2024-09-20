@@ -5,3 +5,4 @@
 // Fix issue with multi-chain transactions
 // Integrate with Ethereum Layer-2 solutions
 // Enhance smart contract state changes monitoring
+// Refactor governance token logic
