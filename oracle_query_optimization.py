@@ -6,3 +6,4 @@
 // Fix ERC-20 token interface bugs
 // Optimize contract storage for gas reduction
 // Enhance contract initialization process
+// Refactor ERC-721 transfer logic
