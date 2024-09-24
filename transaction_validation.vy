@@ -4,3 +4,4 @@
 // Optimize token withdrawal logic
 // Fix compatibility issues with major wallets
 // Add multi-sig wallet functionality
+// Add automated contract testing tools
