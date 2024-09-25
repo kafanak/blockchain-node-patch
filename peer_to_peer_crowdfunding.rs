@@ -4,3 +4,4 @@
 // Fix ERC-721 contract issues with transfers
 // Integrate with decentralized prediction markets
 // Fix errors in contract interaction with wallets
+// Fix issue in token vesting logic
