@@ -4,3 +4,4 @@
 // Improve multi-chain contract deployment
 // Enhance smart contract state changes monitoring
 // Refactor staking logic
+// Improve staking logic for better rewards
