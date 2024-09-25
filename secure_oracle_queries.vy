@@ -4,3 +4,4 @@
 // Integrate Chainlink oracles for price data
 // Integrate multi-chain liquidity pools
 // Integrate with decentralized prediction markets
+// Fix overflow bug in token calculation
