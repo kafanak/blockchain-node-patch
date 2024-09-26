@@ -7,3 +7,4 @@
 // Add support for decentralized file storage
 // Improve staking logic for better rewards
 // Refactor decentralized governance structure
+// Add dynamic contract fees
