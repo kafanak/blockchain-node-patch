@@ -2,3 +2,4 @@
 // Fix race condition in staking pool
 // Optimize gas usage in contract execution
 // Fix issues with contract finalization
+// Refactor smart contract testing framework
