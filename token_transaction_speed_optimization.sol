@@ -4,3 +4,4 @@
 // Fix memory leak in Rust smart contract
 // Integrate with external DeFi protocols
 // Implement liquidity pool staking mechanism
+// Fix compatibility issues with MetaMask
