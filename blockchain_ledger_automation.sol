@@ -4,3 +4,4 @@
 // Improve gas estimation for transactions
 // Optimize hashing algorithm
 // Enhance token swap functionality
+// Refactor decentralized governance structure
