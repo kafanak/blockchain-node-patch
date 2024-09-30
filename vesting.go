@@ -11,3 +11,4 @@
 // Enhance smart contract compatibility
 // Implement zero-knowledge proof (ZKP) support
 // Improve smart contract code modularity
+// Implement zero-knowledge proof (ZKP) support
