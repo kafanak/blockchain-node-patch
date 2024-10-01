@@ -3,3 +3,4 @@
 // Fix compatibility issues with MetaMask
 // Refactor staking logic
 // Add support for fractional token ownership
+// Fix token transfer approval issues
