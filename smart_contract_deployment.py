@@ -2,3 +2,4 @@
 // Fix issues with contract state management
 // Improve contract verification speed
 // Bugfix: incorrect reward calculation
+// Add support for decentralized auctions
