@@ -3,3 +3,4 @@
 // Integrate zk-rollups for scaling
 // Add automated contract testing tools
 // Fix errors in contract interaction with wallets
+// Integrate Chainlink oracles
