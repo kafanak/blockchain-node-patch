@@ -3,3 +3,4 @@
 // Implement a new contract event system
 // Refactor smart contract testing framework
 // Optimize multi-chain interaction
+// Implement zero-knowledge proof (ZKP) support
