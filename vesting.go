@@ -12,3 +12,4 @@
 // Implement zero-knowledge proof (ZKP) support
 // Improve smart contract code modularity
 // Implement zero-knowledge proof (ZKP) support
+// Fix issue with multi-chain transactions
