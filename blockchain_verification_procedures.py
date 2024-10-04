@@ -4,3 +4,4 @@
 // Improve staking logic for better rewards
 // Enhance decentralized autonomous organizations
 // Implement a new contract event system
+// Add automated contract testing tools
