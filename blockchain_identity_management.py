@@ -4,3 +4,4 @@
 // Enhance developer documentation
 // Fix interoperability issues with other blockchains
 // Integrate zk-SNARKs for enhanced privacy
+// Fix issues with cross-chain transaction finality
