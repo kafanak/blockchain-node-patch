@@ -4,3 +4,4 @@
 // Improve gas estimation for transactions
 // Update README with Go module examples
 // Enhance developer documentation
+// Enhance governance contract flexibility
