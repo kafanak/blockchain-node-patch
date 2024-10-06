@@ -13,3 +13,4 @@
 // Improve smart contract code modularity
 // Implement zero-knowledge proof (ZKP) support
 // Fix issue with multi-chain transactions
+// Fix issues with token transfer confirmations
