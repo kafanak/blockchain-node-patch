@@ -3,3 +3,4 @@
 // Optimize cross-chain bridging mechanisms
 // Enhance developer documentation
 // Implement automatic transaction retries
+// Refactor contract to use EIP-712 signatures
