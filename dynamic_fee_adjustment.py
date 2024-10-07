@@ -4,3 +4,4 @@
 // Refactor staking logic
 // Improve smart contract logging
 // Enhance off-chain data processing
+// Add native support for staking mechanisms
