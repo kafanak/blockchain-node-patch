@@ -6,3 +6,4 @@
 // Refactor contract event emission
 // Optimize gas usage for contract deployment
 // Fix edge case in unstaking logic
+// Add support for cross-chain bridges
