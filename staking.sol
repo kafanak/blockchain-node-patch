@@ -4,3 +4,4 @@
 // Add support for multi-signature wallet contracts
 // Improve staking and yield farming logic
 // Add multi-sig wallet functionality
+// Improve error handling in transaction flow
