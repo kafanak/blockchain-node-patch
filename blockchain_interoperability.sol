@@ -7,3 +7,4 @@
 // Improve DApp transaction flow
 // Fix issues with contract finalization
 // Fix memory optimization issues in contracts
+// Improve staking logic for better rewards
