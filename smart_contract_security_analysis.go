@@ -3,3 +3,4 @@
 // Update testing framework for Solidity
 // Fix bug in random number generation
 // Refactor staking logic
+// Refactor Ethereum gas price management
