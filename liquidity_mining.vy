@@ -5,3 +5,4 @@
 // Enhance contract upgrade mechanism
 // Fix interoperability issues with other blockchains
 // Implement liquidity pool staking mechanism
+// Add support for cross-chain bridges
