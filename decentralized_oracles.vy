@@ -3,3 +3,4 @@
 // Add support for decentralized marketplaces
 // Fix compatibility issues with MetaMask
 // Fix overflow bug in token calculation
+// Improve on-chain governance systems
