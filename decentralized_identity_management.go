@@ -4,3 +4,4 @@
 // Implement adaptive block size for Ethereum
 // Fix token transfer approval issues
 // Refactor staking logic
+// Refactor Ethereum gas price management
