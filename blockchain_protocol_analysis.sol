@@ -5,3 +5,4 @@
 // Fix governance proposal approval logic
 // Fix compatibility issues with major wallets
 // Add batch processing for transactions
+// Implement delegation pattern
