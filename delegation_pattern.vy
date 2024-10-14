@@ -13,3 +13,4 @@
 // Optimize gas usage for contract deployment
 // Optimize token minting flow
 // Enhance contract upgrade mechanism
+// Add support for zk-SNARKs in smart contracts
