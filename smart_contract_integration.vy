@@ -6,3 +6,4 @@
 // Add multi-sig wallet functionality
 // Add support for ERC-1155 tokens
 // Add security checks for contract deployment
+// Integrate with decentralized prediction markets
