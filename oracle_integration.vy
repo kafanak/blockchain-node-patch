@@ -7,3 +7,4 @@
 // Add governance proposal expiration feature
 // Add new RPC endpoint
 // Refactor reward pooling algorithm
+// Improve ERC-721 token metadata functionality
