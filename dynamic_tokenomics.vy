@@ -2,3 +2,4 @@
 // Implement delegation pattern
 // Improve error handling in transaction flow
 // Add automated smart contract testing
+// Improve decentralized oracle protocols
