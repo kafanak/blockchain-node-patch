@@ -9,3 +9,4 @@
 // Refactor oracle interaction logic
 // Enhance privacy features using zk-STARKs
 // Implement reward distribution feature
+// Enhance test coverage for Rust module
