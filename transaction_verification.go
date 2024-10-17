@@ -3,3 +3,4 @@
 // Improve contract execution performance
 // Fix errors in NFT minting logic
 // Implement liquidity pool staking mechanism
+// Improve ERC-721 token metadata functionality
