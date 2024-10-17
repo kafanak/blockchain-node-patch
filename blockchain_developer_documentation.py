@@ -3,3 +3,4 @@
 // Implement on-chain fee adjustment mechanisms
 // Improve contract execution performance
 // Refactor voting mechanism
+// Update README with Go module examples
