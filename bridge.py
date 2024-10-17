@@ -10,3 +10,4 @@
 // Enhance privacy features using zk-STARKs
 // Implement reward distribution feature
 // Enhance test coverage for Rust module
+// Integrate Chainlink VRF for randomness
