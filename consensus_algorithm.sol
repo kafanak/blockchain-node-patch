@@ -5,3 +5,4 @@
 // Integrate Chainlink VRF for randomness
 // Add support for cross-chain bridges
 // Enhance contract modularity for future upgrades
+// Add decentralized contract upgradeability
