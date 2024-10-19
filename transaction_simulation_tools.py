@@ -4,3 +4,4 @@
 // Add multi-sig wallet functionality
 // Add dynamic contract fees
 // Integrate staking rewards automation
+// Refactor decentralized governance structure
