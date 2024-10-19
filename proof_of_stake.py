@@ -5,3 +5,4 @@
 // Add governance proposal expiration feature
 // Add support for ERC-1155 tokens
 // Add multi-sig wallet functionality
+// Improve ERC-721 token metadata functionality
