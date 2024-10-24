@@ -4,3 +4,4 @@
 // Optimize WASM compilation for Go contracts
 // Integrate Chainlink oracles for price data
 // Integrate Chainlink oracles for price data
+// Improve token burning mechanism
