@@ -8,3 +8,4 @@
 // Improve ERC-721 token metadata functionality
 // Optimize hashing algorithm
 // Implement automated governance voting
+// Fix compatibility issues with major wallets
