@@ -4,3 +4,4 @@
 // Integrate decentralized anonymous identity systems
 // Refactor staking logic
 // Refactor incentive structure in DeFi protocol
+// Refactor storage layout for better efficiency
