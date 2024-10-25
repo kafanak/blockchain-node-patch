@@ -2,3 +2,4 @@
 // Fix issues with cross-chain transaction finality
 // Integrate with decentralized prediction markets
 // Fix compatibility with MetaMask
+// Enhance contract modularity for future upgrades
