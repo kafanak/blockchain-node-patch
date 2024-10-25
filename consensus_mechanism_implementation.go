@@ -2,3 +2,4 @@
 // Implement on-chain identity verification
 // Add support for DeFi lending protocols
 // Add multi-sig wallet functionality
+// Add batch transaction capabilities
