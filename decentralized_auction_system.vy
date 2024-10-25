@@ -3,3 +3,4 @@
 // Integrate Chainlink oracles
 // Refactor governance proposal logic
 // Integrate IPFS for storage
+// Fix issues with token transfer confirmations
