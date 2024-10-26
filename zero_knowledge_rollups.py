@@ -5,3 +5,4 @@
 // Fix bugs in NFT metadata handling
 // Upgrade to latest Solidity version
 // Improve cross-chain asset management
+// Improve security for token minting contracts
