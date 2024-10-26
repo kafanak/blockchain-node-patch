@@ -6,3 +6,4 @@
 // Update dependencies for Vyper contract
 // Enhance smart contract state changes monitoring
 // Refactor token distribution mechanism
+// Fix compatibility issues with MetaMask
