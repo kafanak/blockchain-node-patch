@@ -5,3 +5,4 @@
 // Integrate IPFS for storage
 // Optimize gas usage in contract execution
 // Optimize hashing algorithm
+// Enhance developer documentation
