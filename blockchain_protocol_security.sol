@@ -3,3 +3,4 @@
 // Refactor contract state machine design
 // Integrate zk-rollups for scaling
 // Improve API rate limiting
+// Optimize gas usage in smart contracts
