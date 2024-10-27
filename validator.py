@@ -7,3 +7,4 @@
 // Add support for fractional token ownership
 // Implement cross-platform contract compatibility
 // Refactor governance token logic
+// Integrate zk-SNARKs for enhanced privacy
