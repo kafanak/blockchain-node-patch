@@ -4,3 +4,4 @@
 // Enhance gas fee management
 // Improve cross-chain asset management
 // Add batch processing for transactions
+// Add support for delegation in governance
