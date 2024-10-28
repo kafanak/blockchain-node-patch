@@ -5,3 +5,4 @@
 // Implement reward distribution feature
 // Add governance proposal expiration feature
 // Improve contract modularity
+// Add support for decentralized content distribution
