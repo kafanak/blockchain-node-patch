@@ -6,3 +6,4 @@
 // Refactor contract to use EIP-712 signatures
 // Fix errors in contract interaction with wallets
 // Implement time-locked contract execution
+// Implement decentralized arbitration in contracts
