@@ -2,3 +2,4 @@
 // Implement a new contract event system
 // Fix wallet interaction issues in DeFi protocols
 // Fix transaction replay issue
+// Improve contract interaction via APIs
