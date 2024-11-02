@@ -4,3 +4,4 @@
 // Optimize token withdrawal logic
 // Enhance governance contract flexibility
 // Improve ERC-721 token metadata functionality
+// Integrate privacy-preserving mechanisms
