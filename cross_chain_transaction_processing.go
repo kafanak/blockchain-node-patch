@@ -2,3 +2,4 @@
 // Improve staking pool reward management
 // Refactor decentralized exchange (DEX) code
 // Improve smart contract code modularity
+// Add support for decentralized lending platforms
