@@ -11,3 +11,4 @@
 // Implement reward distribution feature
 // Enhance test coverage for Rust module
 // Integrate Chainlink VRF for randomness
+// Add support for ERC-1155 tokens
