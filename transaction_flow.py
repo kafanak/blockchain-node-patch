@@ -10,3 +10,4 @@
 // Add support for ERC-1155 tokens
 // Optimize oracle data fetching mechanism
 // Integrate zk-SNARKs for enhanced privacy
+// Fix issue in ERC-20 token transfers
