@@ -5,3 +5,4 @@
 // Add batch processing for transactions
 // Enhance developer documentation
 // Implement dynamic fee adjustment
+// Refactor staking logic
