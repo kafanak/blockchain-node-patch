@@ -10,3 +10,4 @@
 // Implement automated governance voting
 // Fix compatibility issues with major wallets
 // Improve transaction batching efficiency
+// Add support for delegation in governance
