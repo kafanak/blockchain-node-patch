@@ -8,3 +8,4 @@
 // Implement liquidity pool staking mechanism
 // Fix overflow bug in token calculation
 // Refactor governance proposal logic
+// Integrate IPFS for storage
