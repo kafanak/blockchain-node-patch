@@ -6,3 +6,4 @@
 // Fix issues in multi-token smart contracts
 // Optimize token burn process
 // Refactor validator reward system
+// Refactor reward pooling algorithm
