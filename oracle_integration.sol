@@ -7,3 +7,4 @@
 // Improve gas estimation for transactions
 // Optimize hashing algorithm
 // Improve gas estimation for transactions
+// Add support for decentralized credit scoring
