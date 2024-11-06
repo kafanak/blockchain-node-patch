@@ -10,3 +10,4 @@
 // Refactor incentive structure in DeFi protocol
 // Refactor staking logic
 // Integrate decentralized prediction models
+// Fix race condition in staking pool
