@@ -8,3 +8,4 @@
 // Add new RPC endpoint
 // Refactor reward pooling algorithm
 // Improve ERC-721 token metadata functionality
+// Add support for multiple consensus mechanisms
