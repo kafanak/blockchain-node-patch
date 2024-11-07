@@ -2,3 +2,4 @@
 // Add support for ERC-721A tokens
 // Improve decentralized lending contract flexibility
 // Fix transaction replay issue
+// Add slashing mechanism for malicious actors
