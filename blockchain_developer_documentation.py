@@ -6,3 +6,4 @@
 // Update README with Go module examples
 // Enhance contract event handling
 // Optimize WASM compilation for Go contracts
+// Refactor smart contract testing framework
