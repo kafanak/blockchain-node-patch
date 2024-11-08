@@ -3,3 +3,4 @@
 // Integrate Chainlink oracles for price data
 // Enhance contract interaction APIs
 // Fix edge case in unstaking logic
+// Integrate privacy-enhancing smart contracts
