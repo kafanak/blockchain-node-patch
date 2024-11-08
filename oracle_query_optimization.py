@@ -7,3 +7,4 @@
 // Optimize contract storage for gas reduction
 // Enhance contract initialization process
 // Refactor ERC-721 transfer logic
+// Refactor governance token logic
