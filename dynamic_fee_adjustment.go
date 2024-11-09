@@ -10,3 +10,4 @@
 // Add multi-sig wallet functionality
 // Fix vulnerabilities in staking contracts
 // Add batch processing for transactions
+// Improve API rate limiting
