@@ -4,3 +4,4 @@
 // Refactor token economics model
 // Fix issues with contract finalization
 // Implement reward distribution feature
+// Improve staking logic for better rewards
