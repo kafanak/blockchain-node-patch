@@ -3,3 +3,4 @@
 // Add support for ERC-721A tokens
 // Optimize state channels for faster transactions
 // Integrate chain-agnostic oracles
+// Integrate with external DeFi protocols
