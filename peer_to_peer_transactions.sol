@@ -6,3 +6,4 @@
 // Improve contract modularity
 // Improve ERC-721 token metadata functionality
 // Optimize token minting flow
+// Add batch processing for transactions
