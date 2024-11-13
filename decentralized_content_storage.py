@@ -5,3 +5,4 @@
 // Integrate privacy-enhancing smart contracts
 // Implement reward distribution feature
 // Integrate decentralized prediction models
+// Integrate with Ethereum Layer-2 solutions
