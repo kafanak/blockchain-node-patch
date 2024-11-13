@@ -14,3 +14,4 @@
 // Optimize token burn process
 // Fix ERC-20 token interface bugs
 // Improve token burning mechanism
+// Add support for decentralized content distribution
