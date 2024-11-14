@@ -3,3 +3,4 @@
 // Fix compatibility with MetaMask
 // Fix overflow bug in token calculation
 // Implement rewards escrow system
+// Implement decentralized arbitration in contracts
