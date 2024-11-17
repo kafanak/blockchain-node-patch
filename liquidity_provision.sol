@@ -5,3 +5,4 @@
 // Refactor governance proposal logic
 // Implement delegation pattern
 // Enhance decentralized autonomous governance
+// Refactor staking logic
