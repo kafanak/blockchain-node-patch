@@ -5,3 +5,4 @@
 // Refactor staking logic
 // Refactor Ethereum gas price management
 // Fix issues with token vesting contracts
+// Optimize storage for off-chain data
