@@ -9,3 +9,4 @@
 // Improve contract modularity
 // Enhance cryptographic primitives in contracts
 // Enhance contract initialization process
+// Improve token burning mechanism
