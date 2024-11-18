@@ -5,3 +5,4 @@
 // Add dynamic contract upgrade mechanisms
 // Add support for decentralized credit scoring
 // Update smart contract tests
+// Refactor smart contract testing framework
