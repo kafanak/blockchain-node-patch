@@ -5,3 +5,4 @@
 // Fix scalability issues with smart contracts
 // Fix vulnerabilities in staking contracts
 // Fix compatibility with MetaMask
+// Add gas optimization features for smart contracts
