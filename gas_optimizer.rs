@@ -8,3 +8,4 @@
 // Fix vulnerabilities in staking contracts
 // Refactor multi-asset token management
 // Improve contract state management
+// Fix errors in contract interaction with wallets
