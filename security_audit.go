@@ -3,3 +3,4 @@
 // Enhance API rate limiting for smart contracts
 // Update README with Go module examples
 // Optimize token burn process
+// Fix compatibility issues with MetaMask
