@@ -6,3 +6,4 @@
 // Optimize cross-chain communication
 // Fix issues with contract finalization
 // Enhance smart contract state changes monitoring
+// Add support for Layer-2 solutions
