@@ -5,3 +5,4 @@
 // Fix token transfer approval issues
 // Refactor staking logic
 // Refactor Ethereum gas price management
+// Refactor ERC-721 transfer logic
