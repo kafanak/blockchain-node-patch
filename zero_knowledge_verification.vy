@@ -3,3 +3,4 @@
 // Refactor Ethereum gas price management
 // Fix bugs in multi-token systems
 // Add support for multi-signature wallet contracts
+// Integrate Chainlink VRF for randomness
