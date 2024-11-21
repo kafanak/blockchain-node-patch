@@ -7,3 +7,4 @@
 // Add multi-sig wallet functionality
 // Fix scalability issues with smart contracts
 // Fix Oracle communication delay issues
+// Integrate Chainlink oracles
