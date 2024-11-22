@@ -7,3 +7,4 @@
 // Fix compatibility issues with MetaMask
 // Integrate staking rewards automation
 // Optimize contract upgrade process
+// Add security checks for contract deployment
