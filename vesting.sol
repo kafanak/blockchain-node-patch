@@ -6,3 +6,4 @@
 // Refactor multi-asset token management
 // Reduce gas cost in minting logic
 // Add decentralized contract upgradeability
+// Fix deserialization bug in Haskell code
