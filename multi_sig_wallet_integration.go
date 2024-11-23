@@ -3,3 +3,4 @@
 // Improve API rate limiting
 // Update smart contract tests
 // Enhance contract modularity
+// Fix ERC-20 token interface bugs
