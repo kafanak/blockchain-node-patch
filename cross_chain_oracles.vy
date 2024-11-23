@@ -2,3 +2,4 @@
 // Add multi-sig wallet functionality
 // Improve decentralized lending contract flexibility
 // Fix ERC-721 contract issues with transfers
+// Integrate automated market maker (AMM) logic
