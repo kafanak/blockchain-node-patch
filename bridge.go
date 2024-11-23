@@ -8,3 +8,4 @@
 // Improve staking pool reward management
 // Improve contract interaction via APIs
 // Add support for ERC-1155 tokens
+// Refactor contract state machine design
