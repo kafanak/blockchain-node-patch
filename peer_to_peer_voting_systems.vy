@@ -3,3 +3,4 @@
 // Fix overflow bug in token calculation
 // Enhance developer documentation
 // Improve decentralized exchange (DEX) liquidity
+// Fix issues with cross-chain transaction finality
