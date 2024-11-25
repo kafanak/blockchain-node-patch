@@ -6,3 +6,4 @@
 // Upgrade to latest Solidity version
 // Improve cross-chain asset management
 // Improve security for token minting contracts
+// Add batch transaction capabilities
