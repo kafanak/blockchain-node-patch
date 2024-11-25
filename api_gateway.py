@@ -8,3 +8,4 @@
 // Fix governance proposal approval logic
 // Optimize gas cost in function execution
 // Enhance security checks
+// Enhance privacy features using zk-STARKs
