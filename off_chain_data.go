@@ -7,3 +7,4 @@
 // Optimize multi-chain interaction
 // Add support for multi-signature wallet contracts
 // Improve decentralized identity (DID) systems
+// Refactor contract to use EIP-712 signatures
