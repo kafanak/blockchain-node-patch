@@ -3,3 +3,4 @@
 // Optimize decentralized oracle performance
 // Enhance token swap functionality
 // Refactor reward pooling algorithm
+// Add new feature: on-chain governance
