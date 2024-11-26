@@ -5,3 +5,4 @@
 // Implement price feed oracles for tokens
 // Improve contract auditing tools
 // Upgrade to latest Solidity version
+// Improve contract interaction via APIs
