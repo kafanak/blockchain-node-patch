@@ -4,3 +4,4 @@
 // Fix transaction replay issue
 // Refactor contract event emission
 // Enhance security checks
+// Optimize Oracle-based data fetching
