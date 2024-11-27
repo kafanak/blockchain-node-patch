@@ -7,3 +7,4 @@
 // Optimize gas usage for contract deployment
 // Fix edge case in unstaking logic
 // Add support for cross-chain bridges
+// Optimize proof-of-stake validation
