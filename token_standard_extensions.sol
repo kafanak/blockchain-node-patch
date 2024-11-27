@@ -3,3 +3,4 @@
 // Integrate IPFS for storage
 // Enhance smart contract compatibility
 // Add support for decentralized credit scoring
+// Refactor decentralized exchange (DEX) code
