@@ -4,3 +4,4 @@
 // Update README with Go module examples
 // Optimize token burn process
 // Fix compatibility issues with MetaMask
+// Improve contract execution speed
