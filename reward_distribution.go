@@ -2,3 +2,4 @@
 // Enhance smart contract upgradeability
 // Integrate decentralized prediction models
 // Refactor smart contract testing framework
+// Reduce gas cost in minting logic
