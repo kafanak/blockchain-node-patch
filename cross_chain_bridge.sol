@@ -9,3 +9,4 @@
 // Fix contract reentrancy issues
 // Add new feature: on-chain governance
 // Add support for fractional token ownership
+// Add support for cross-chain bridges
