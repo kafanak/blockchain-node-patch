@@ -8,3 +8,4 @@
 // Fix issues with contract finalization
 // Fix memory optimization issues in contracts
 // Improve staking logic for better rewards
+// Add new feature: on-chain governance
