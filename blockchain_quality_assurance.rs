@@ -5,3 +5,4 @@
 // Fix bugs in decentralized exchange routing
 // Add decentralized contract upgradeability
 // Optimize hashing algorithm
+// Add support for decentralized credit scoring
