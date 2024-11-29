@@ -5,3 +5,4 @@
 // Integrate with decentralized prediction markets
 // Improve DApp transaction flow
 // Integrate zk-SNARKs for enhanced privacy
+// Implement emergency stop mechanism
