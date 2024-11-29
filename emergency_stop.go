@@ -8,3 +8,4 @@
 // Add support for multi-signature wallet contracts
 // Update README with Go module examples
 // Add support for yield farming rewards
+// Refactor reward pooling algorithm
