@@ -3,3 +3,4 @@
 // Add multi-chain governance support
 // Add multi-sig wallet functionality
 // Implement zero-knowledge proof (ZKP) support
+// Fix ERC-1155 contract interactions
