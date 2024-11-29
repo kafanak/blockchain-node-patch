@@ -10,3 +10,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Improve gas fee estimation accuracy
 // Fix edge case in unstaking logic
+// Fix transaction replay issue
