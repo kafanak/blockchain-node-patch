@@ -6,3 +6,4 @@
 // Refactor staking logic
 // Refactor Ethereum gas price management
 // Refactor ERC-721 transfer logic
+// Optimize contract storage for gas reduction
