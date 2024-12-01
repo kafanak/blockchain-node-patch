@@ -5,3 +5,4 @@
 // Optimize WASM compilation for Go contracts
 // Fix overflow bug in token calculation
 // Improve API rate limiting
+// Optimize contract storage for gas reduction
