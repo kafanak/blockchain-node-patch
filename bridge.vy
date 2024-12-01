@@ -4,3 +4,4 @@
 // Enhance smart contract compatibility
 // Enhance security checks
 // Add support for DeFi lending protocols
+// Refactor incentive structure in DeFi protocol
