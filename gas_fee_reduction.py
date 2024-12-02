@@ -4,3 +4,4 @@
 // Improve gas fee estimation accuracy
 // Enhance smart contract state changes monitoring
 // Enhance contract event handling
+// Fix issues with ERC-20 token approvals
