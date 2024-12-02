@@ -5,3 +5,4 @@
 // Implement contract function batching
 // Improve staking logic for better rewards
 // Add native support for staking mechanisms
+// Optimize contract storage for gas reduction
