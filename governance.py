@@ -6,3 +6,4 @@
 // Improve gas estimation for transactions
 // Fix deserialization bug in Haskell code
 // Enhance security checks
+// Enhance privacy features using zk-STARKs
