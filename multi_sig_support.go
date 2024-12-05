@@ -11,3 +11,4 @@
 // Improve gas fee estimation accuracy
 // Fix edge case in unstaking logic
 // Fix transaction replay issue
+// Add support for multi-signature wallet contracts
