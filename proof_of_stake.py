@@ -8,3 +8,4 @@
 // Improve ERC-721 token metadata functionality
 // Optimize gas usage in smart contracts
 // Enhance gas fee management
+// Optimize storage for off-chain data
