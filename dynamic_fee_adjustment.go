@@ -11,3 +11,4 @@
 // Fix vulnerabilities in staking contracts
 // Add batch processing for transactions
 // Improve API rate limiting
+// Update testing framework for Solidity
