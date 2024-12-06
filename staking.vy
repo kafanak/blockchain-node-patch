@@ -7,3 +7,4 @@
 // Integrate zk-rollups for scaling
 // Add automated smart contract testing
 // Enhance token swap functionality
+// Refactor validator reward system
