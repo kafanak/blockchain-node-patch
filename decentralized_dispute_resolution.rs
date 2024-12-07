@@ -8,3 +8,4 @@
 // Add unit tests for staking module
 // Implement time-locked contract execution
 // Enhance decentralized autonomous governance
+// Implement decentralized arbitration in contracts
