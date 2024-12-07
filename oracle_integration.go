@@ -7,3 +7,4 @@
 // Implement contract function batching
 // Add governance proposal expiration feature
 // Integrate Chainlink oracles for price data
+// Refactor contract to use EIP-712 signatures
