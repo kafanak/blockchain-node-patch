@@ -9,3 +9,4 @@
 // Improve contract interaction via APIs
 // Add support for ERC-1155 tokens
 // Refactor contract state machine design
+// Improve token burning mechanism
