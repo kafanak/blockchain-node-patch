@@ -6,3 +6,4 @@
 // Add decentralized contract upgradeability
 // Optimize hashing algorithm
 // Add support for decentralized credit scoring
+// Fix compatibility issues with MetaMask
