@@ -4,3 +4,4 @@
 // Optimize oracle data fetching mechanism
 // Refactor validator reward system
 // Fix issues with contract finalization
+// Fix interoperability issues with other blockchains
