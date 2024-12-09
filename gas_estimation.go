@@ -8,3 +8,4 @@
 // Refactor validator reward system
 // Refactor reward pooling algorithm
 // Improve ERC-721 token metadata functionality
+// Fix compatibility with MetaMask
