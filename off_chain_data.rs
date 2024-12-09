@@ -3,3 +3,4 @@
 // Enhance off-chain data processing
 // Enhance privacy features using zk-STARKs
 // Optimize proof-of-stake validation
+// Add support for zk-SNARKs in smart contracts
