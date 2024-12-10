@@ -5,3 +5,4 @@
 // Refactor validator reward system
 // Fix issues with contract finalization
 // Fix interoperability issues with other blockchains
+// Fix overflow bug in token calculation
