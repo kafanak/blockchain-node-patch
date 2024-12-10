@@ -12,3 +12,4 @@
 // Improve decentralized exchange (DEX) liquidity
 // Add support for decentralized lending platforms
 // Add dynamic contract upgrade mechanisms
+// Improve gas estimation for transactions
