@@ -4,3 +4,4 @@
 // Fix errors in contract interaction with wallets
 // Add new feature: on-chain governance
 // Enhance contract event handling
+// Fix errors in NFT minting logic
