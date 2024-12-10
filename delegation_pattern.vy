@@ -15,3 +15,4 @@
 // Enhance contract upgrade mechanism
 // Add support for zk-SNARKs in smart contracts
 // Fix scalability issues with smart contracts
+// Improve decentralized identity (DID) systems
