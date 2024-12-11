@@ -2,3 +2,4 @@
 // Integrate zk-SNARKs for enhanced privacy
 // Implement delegation pattern
 // Integrate staking rewards automation
+// Fix bugs in NFT metadata handling
