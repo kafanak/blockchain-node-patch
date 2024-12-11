@@ -4,3 +4,4 @@
 // Enhance developer documentation
 // Improve decentralized exchange (DEX) liquidity
 // Fix issues with cross-chain transaction finality
+// Fix vulnerability in decentralized finance protocols
