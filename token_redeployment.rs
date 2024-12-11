@@ -4,3 +4,4 @@
 // Enhance contract interaction APIs
 // Fix edge case in unstaking logic
 // Integrate privacy-enhancing smart contracts
+// Refactor governance token logic
