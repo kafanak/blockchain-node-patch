@@ -8,3 +8,4 @@
 // Improve multi-chain contract deployment
 // Implement delegation pattern
 // Integrate IPFS for storage
+// Integrate Chainlink VRF for randomness
