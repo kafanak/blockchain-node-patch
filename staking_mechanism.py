@@ -4,3 +4,4 @@
 // Add automated smart contract testing
 // Enhance decentralized autonomous organizations
 // Implement rewards escrow system
+// Refactor staking logic
