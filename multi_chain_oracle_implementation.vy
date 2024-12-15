@@ -4,3 +4,4 @@
 // Enhance smart contract extensibility
 // Add support for multiple consensus mechanisms
 // Refactor wallet interaction logic
+// Refactor contract to use EIP-712 signatures
