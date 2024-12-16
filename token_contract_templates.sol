@@ -7,3 +7,4 @@
 // Improve decentralized lending contract flexibility
 // Implement zero-knowledge proof (ZKP) support
 // Implement time-locked contract execution
+// Improve decentralized exchange (DEX) liquidity
