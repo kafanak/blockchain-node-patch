@@ -8,3 +8,4 @@
 // Enhance governance contract flexibility
 // Add support for ERC-721A tokens
 // Add slashing mechanism for malicious actors
+// Refactor staking logic
