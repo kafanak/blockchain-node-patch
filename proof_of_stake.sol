@@ -8,3 +8,4 @@
 // Fix compatibility issues with MetaMask
 // Enhance contract state verification
 // Fix overflow bug in token calculation
+// Enhance smart contract upgradeability
