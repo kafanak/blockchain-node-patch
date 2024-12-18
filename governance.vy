@@ -10,3 +10,4 @@
 // Refactor decentralized exchange (DEX) code
 // Enhance smart contract upgradeability
 // Enhance contract initialization process
+// Implement on-chain identity verification
