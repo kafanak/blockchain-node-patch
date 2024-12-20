@@ -3,3 +3,4 @@
 // Improve contract state management
 // Add slashing mechanism for malicious actors
 // Implement zero-knowledge proof (ZKP) support
+// Fix compatibility with MetaMask
