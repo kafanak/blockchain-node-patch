@@ -5,3 +5,4 @@
 // Update README with Go module examples
 // Enhance developer documentation
 // Enhance governance contract flexibility
+// Add batch processing for transactions
