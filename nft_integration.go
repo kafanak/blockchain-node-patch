@@ -7,3 +7,4 @@
 // Enhance cryptographic primitives in contracts
 // Add support for decentralized credit scoring
 // Fix issue with multi-chain transactions
+// Add fallback mechanism in Solidity contract
