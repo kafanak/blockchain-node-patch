@@ -5,3 +5,4 @@
 // Add multi-sig wallet functionality
 // Implement reward distribution feature
 // Fix contract reentrancy issues
+// Integrate privacy-preserving mechanisms
