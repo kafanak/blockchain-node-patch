@@ -8,3 +8,4 @@
 // Refactor decentralized exchange (DEX) code
 // Enhance gas fee management
 // Fix security vulnerability in random number generation
+// Add governance proposal expiration feature
