@@ -4,3 +4,4 @@
 // Optimize storage for off-chain data
 // Implement on-chain identity verification
 // Optimize contract upgrade process
+// Integrate privacy-preserving mechanisms
