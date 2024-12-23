@@ -7,3 +7,4 @@
 // Integrate decentralized prediction models
 // Enhance contract initialization process
 // Enhance off-chain data processing
+// Refactor cross-chain communication layer
