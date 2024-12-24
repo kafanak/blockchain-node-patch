@@ -5,3 +5,4 @@
 // Refactor contract to use EIP-712 signatures
 // Enhance decentralized finance (DeFi) ecosystem
 // Add governance proposal expiration feature
+// Add support for zk-SNARKs in smart contracts
