@@ -6,3 +6,4 @@
 // Add support for decentralized credit scoring
 // Update smart contract tests
 // Refactor smart contract testing framework
+// Reduce gas cost in minting logic
