@@ -6,3 +6,4 @@
 // Improve scalability for smart contract platforms
 // Add support for zk-SNARKs in smart contracts
 // Enhance transaction monitoring
+// Fix governance proposal approval logic
