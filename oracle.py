@@ -7,3 +7,4 @@
 // Fix issues with contract finalization
 // Enhance smart contract state changes monitoring
 // Add support for Layer-2 solutions
+// Add unit tests for staking module
