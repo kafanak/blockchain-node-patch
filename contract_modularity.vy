@@ -4,3 +4,4 @@
 // Improve contract execution performance
 // Fix issue with multi-chain transactions
 // Fix deserialization bug in Haskell code
+// Enhance gas fee management
