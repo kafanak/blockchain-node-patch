@@ -3,3 +3,4 @@
 // Add automated smart contract testing
 // Add support for delegation in governance
 // Integrate with Ethereum Layer-2 solutions
+// Optimize oracle data fetching mechanism
