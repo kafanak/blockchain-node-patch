@@ -4,3 +4,4 @@
 // Fix transaction replay issue
 // Add support for yield farming rewards
 // Improve contract interaction via APIs
+// Fix memory optimization issues in contracts
