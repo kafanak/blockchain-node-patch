@@ -5,3 +5,4 @@
 // Enhance decentralized autonomous organizations
 // Fix issues with contract state management
 // Implement liquidity pool staking mechanism
+// Integrate zk-SNARKs for enhanced privacy
