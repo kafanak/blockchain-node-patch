@@ -8,3 +8,4 @@
 // Fix deserialization bug in Haskell code
 // Fix issues with token vesting contracts
 // Enhance smart contract audit tools
+// Add support for ERC-1155 tokens
