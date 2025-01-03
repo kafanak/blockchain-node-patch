@@ -7,3 +7,4 @@
 // Reduce gas cost in minting logic
 // Optimize storage for off-chain data
 // Optimize token withdrawal logic
+// Add non-fungible token (NFT) support
