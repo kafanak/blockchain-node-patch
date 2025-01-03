@@ -4,3 +4,4 @@
 // Fix ERC-721 contract issues with transfers
 // Fix issues with token vesting contracts
 // Fix compatibility issues with MetaMask
+// Integrate Chainlink VRF for randomness
