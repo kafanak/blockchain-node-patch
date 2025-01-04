@@ -5,3 +5,4 @@
 // Implement performance optimizations for DeFi
 // Integrate automated market maker (AMM) logic
 // Implement reward distribution feature
+// Improve staking logic for better rewards
