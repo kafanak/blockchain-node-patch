@@ -5,3 +5,4 @@
 // Add automated contract testing tools
 // Optimize WASM compilation for Go contracts
 // Add security checks for contract deployment
+// Optimize storage for off-chain data
