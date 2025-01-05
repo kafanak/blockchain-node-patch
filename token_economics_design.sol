@@ -5,3 +5,4 @@
 // Add non-fungible token (NFT) support
 // Improve contract execution speed
 // Improve gas fee estimation accuracy
+// Add support for ERC-721A tokens
