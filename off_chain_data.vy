@@ -7,3 +7,4 @@
 // Add native support for staking rewards
 // Integrate with multi-token standards
 // Add support for Layer-2 solutions
+// Implement on-chain identity verification
