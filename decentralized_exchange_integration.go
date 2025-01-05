@@ -5,3 +5,4 @@
 // Enhance contract event handling
 // Add dynamic contract fees
 // Improve contract modularity
+// Improve decentralized exchange (DEX) liquidity
