@@ -4,3 +4,4 @@
 // Add multi-chain governance support
 // Add support for decentralized auctions
 // Improve decentralized oracle protocols
+// Add native support for staking rewards
