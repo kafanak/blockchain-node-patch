@@ -4,3 +4,4 @@
 // Update README with Go module examples
 // Add batch processing for transactions
 // Add multi-sig wallet functionality
+// Refactor storage layout for better efficiency
