@@ -4,3 +4,4 @@
 // Implement liquidity pool staking mechanism
 // Fix overflow bug in token calculation
 // Add Layer-2 Ethereum scaling solutions
+// Refactor governance proposal logic
