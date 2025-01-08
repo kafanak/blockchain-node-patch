@@ -8,3 +8,4 @@
 // Enhance security checks
 // Enhance privacy features using zk-STARKs
 // Integrate automated market maker (AMM) logic
+// Fix issues with ERC-20 token approvals
