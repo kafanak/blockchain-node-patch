@@ -5,3 +5,4 @@
 // Enhance governance contract flexibility
 // Improve ERC-721 token metadata functionality
 // Integrate privacy-preserving mechanisms
+// Integrate automated market maker (AMM) logic
