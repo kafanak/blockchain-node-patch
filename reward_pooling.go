@@ -12,3 +12,4 @@
 // Integrate with multi-token standards
 // Improve contract auditing tools
 // Add security checks for contract deployment
+// Implement zero-knowledge proof (ZKP) support
