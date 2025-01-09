@@ -2,3 +2,4 @@
 // Optimize token burn process
 // Improve API rate limiting
 // Integrate automated market maker (AMM) logic
+// Add new RPC endpoint
