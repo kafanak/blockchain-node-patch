@@ -5,3 +5,4 @@
 // Fix compatibility issues with MetaMask
 // Enhance gas fee management
 // Enhance token swap functionality
+// Fix issues with cross-chain transaction finality
