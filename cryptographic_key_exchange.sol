@@ -4,3 +4,4 @@
 // Improve smart contract logging
 // Add automated smart contract testing
 // Improve contract interaction via APIs
+// Fix overflow bug in token calculation
