@@ -6,3 +6,4 @@
 // Improve gas estimation for transactions
 // Optimize oracle data fetching mechanism
 // Implement delegation pattern
+// Add multi-chain transaction support
