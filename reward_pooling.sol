@@ -6,3 +6,4 @@
 // Add governance proposal expiration feature
 // Add support for decentralized credit scoring
 // Improve smart contract code modularity
+// Enhance logging for better debugging
