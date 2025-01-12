@@ -12,3 +12,4 @@
 // Fix contract reentrancy issues
 // Enhance smart contract extensibility
 // Integrate privacy-preserving mechanisms
+// Add support for decentralized credit scoring
