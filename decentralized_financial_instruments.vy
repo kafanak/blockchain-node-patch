@@ -7,3 +7,4 @@
 // Fix issue in token vesting logic
 // Fix overflow bug in token calculation
 // Improve on-chain governance systems
+// Optimize storage for off-chain data
