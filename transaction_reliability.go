@@ -5,3 +5,4 @@
 // Fix compatibility issues with major wallets
 // Fix compatibility issues with major wallets
 // Enhance governance contract flexibility
+// Fix bug in random number generation
