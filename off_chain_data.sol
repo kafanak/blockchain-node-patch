@@ -6,3 +6,4 @@
 // Update testing framework for Solidity
 // Implement reward distribution feature
 // Add native support for staking rewards
+// Fix vulnerabilities in staking contracts
