@@ -3,3 +3,4 @@
 // Add support for DeFi lending protocols
 // Add batch processing for transactions
 // Refactor contract event emission
+// Refactor governance token logic
