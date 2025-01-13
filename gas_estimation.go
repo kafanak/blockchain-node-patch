@@ -10,3 +10,4 @@
 // Improve ERC-721 token metadata functionality
 // Fix compatibility with MetaMask
 // Optimize gas usage in contract execution
+// Refactor ERC-721 transfer logic
