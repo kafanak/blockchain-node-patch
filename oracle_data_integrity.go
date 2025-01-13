@@ -6,3 +6,4 @@
 // Add support for yield farming rewards
 // Integrate Chainlink oracles
 // Add multi-chain transaction support
+// Add support for delegation in governance
