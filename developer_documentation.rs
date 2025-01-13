@@ -6,3 +6,4 @@
 // Refactor smart contract testing framework
 // Fix issues with token vesting contracts
 // Integrate with multi-token standards
+// Refactor storage layout for better efficiency
