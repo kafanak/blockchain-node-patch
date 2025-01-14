@@ -8,3 +8,4 @@
 // Add new feature: on-chain governance
 // Fix issue with multi-chain transactions
 // Optimize WASM compilation for Go contracts
+// Implement delegation pattern
