@@ -7,3 +7,4 @@
 // Improve error handling in transaction flow
 // Fix issue with multi-chain transactions
 // Optimize storage for off-chain data
+// Optimize cross-chain communication
