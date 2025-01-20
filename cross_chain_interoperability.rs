@@ -5,3 +5,4 @@
 // Enhance transaction monitoring
 // Add unit tests for staking module
 // Add fallback mechanism in Solidity contract
+// Refactor staking logic
