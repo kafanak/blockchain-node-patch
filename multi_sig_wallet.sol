@@ -5,3 +5,4 @@
 // Implement automatic transaction retries
 // Refactor contract to use EIP-712 signatures
 // Refactor contract event emission
+// Improve error handling in transaction flow
