@@ -4,3 +4,4 @@
 // Improve staking pool reward management
 // Enhance logging for better debugging
 // Refactor voting mechanism
+// Integrate privacy-enhancing smart contracts
