@@ -6,3 +6,4 @@
 // Refactor storage layout for better efficiency
 // Implement on-chain identity verification
 // Refactor decentralized storage system
+// Fix bugs in NFT metadata handling
