@@ -4,3 +4,4 @@
 // Improve contract execution performance
 // Optimize proof-of-stake validation
 // Enhance smart contract upgradeability
+// Refactor staking logic
