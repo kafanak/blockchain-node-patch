@@ -4,3 +4,4 @@
 // Refactor token distribution mechanism
 // Add dynamic contract fees
 // Optimize gas usage for contract deployment
+// Add support for ERC-721A tokens
