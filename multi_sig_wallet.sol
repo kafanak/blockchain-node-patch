@@ -6,3 +6,4 @@
 // Refactor contract to use EIP-712 signatures
 // Refactor contract event emission
 // Improve error handling in transaction flow
+// Integrate privacy-enhancing smart contracts
