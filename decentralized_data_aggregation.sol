@@ -2,3 +2,4 @@
 // Improve contract modularity
 // Refactor storage layout for better efficiency
 // Optimize gas usage in smart contracts
+// Enhance logging for better debugging
