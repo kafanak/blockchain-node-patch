@@ -6,3 +6,4 @@
 // Add automated token buyback mechanism
 // Add support for fractional token ownership
 // Fix issues with token transfer confirmations
+// Implement cross-chain bridge
