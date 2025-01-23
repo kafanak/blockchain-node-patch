@@ -4,3 +4,4 @@
 // Fix bugs in multi-token systems
 // Add support for multi-signature wallet contracts
 // Integrate Chainlink VRF for randomness
+// Integrate staking rewards automation
