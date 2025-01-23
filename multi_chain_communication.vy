@@ -6,3 +6,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Fix compatibility with MetaMask
 // Add support for zk-SNARKs in smart contracts
+// Improve security for token minting contracts
