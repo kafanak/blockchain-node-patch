@@ -10,3 +10,4 @@
 // Refactor staking logic
 // Refactor incentive structure in DeFi protocol
 // Integrate multi-chain liquidity pools
+// Fix contract reentrancy issues
