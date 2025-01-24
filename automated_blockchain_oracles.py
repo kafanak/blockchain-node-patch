@@ -7,3 +7,4 @@
 // Refactor reward pooling algorithm
 // Implement a new contract event system
 // Improve contract modularity
+// Fix contract reentrancy issues
