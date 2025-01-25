@@ -5,3 +5,4 @@
 // Optimize contract upgrade process
 // Refactor incentive structure in DeFi protocol
 // Fix compatibility issues with MetaMask
+// Bugfix: incorrect reward calculation
