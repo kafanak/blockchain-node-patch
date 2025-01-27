@@ -7,3 +7,4 @@
 // Improve DApp transaction flow
 // Enhance developer documentation
 // Improve ERC-721 token metadata functionality
+// Add support for decentralized marketplaces
