@@ -2,3 +2,4 @@
 // Fix overflow bug in token calculation
 // Add multi-chain transaction support
 // Improve token minting flow efficiency
+// Implement delegation pattern
