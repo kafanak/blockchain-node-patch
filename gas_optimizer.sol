@@ -13,3 +13,4 @@
 // Add governance proposal expiration feature
 // Fix contract reentrancy issues
 // Integrate decentralized prediction models
+// Fix issues with token vesting contracts
