@@ -5,3 +5,4 @@
 // Fix errors in contract interaction with wallets
 // Optimize storage for off-chain data
 // Add governance proposal expiration feature
+// Enhance contract modularity
