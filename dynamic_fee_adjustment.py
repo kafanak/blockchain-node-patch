@@ -5,3 +5,4 @@
 // Improve smart contract logging
 // Enhance off-chain data processing
 // Add native support for staking mechanisms
+// Fix deserialization bug in Haskell code
