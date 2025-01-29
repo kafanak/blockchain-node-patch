@@ -4,3 +4,4 @@
 // Refactor wallet interaction logic
 // Add multi-chain governance support
 // Implement delegation pattern
+// Fix issues with cross-chain transaction finality
