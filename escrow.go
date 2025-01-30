@@ -4,3 +4,4 @@
 // Improve gas fee estimation accuracy
 // Optimize hashing algorithm
 // Integrate Chainlink VRF for randomness
+// Add support for multi-signature wallet contracts
