@@ -6,3 +6,4 @@
 // Improve contract modularity
 // Implement contract function batching
 // Optimize token minting flow
+// Optimize gas usage in smart contracts
