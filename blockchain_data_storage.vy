@@ -6,3 +6,4 @@
 // Fix vulnerabilities in staking contracts
 // Fix compatibility with MetaMask
 // Add gas optimization features for smart contracts
+// Fix ERC-20 token interface bugs
