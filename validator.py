@@ -8,3 +8,4 @@
 // Implement cross-platform contract compatibility
 // Refactor governance token logic
 // Integrate zk-SNARKs for enhanced privacy
+// Fix issue in ERC-20 token transfers
