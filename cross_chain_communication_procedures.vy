@@ -5,3 +5,4 @@
 // Integrate zk-SNARKs for enhanced privacy
 // Improve staking logic for better rewards
 // Fix issues with contract state management
+// Update smart contract tests
