@@ -3,3 +3,4 @@
 // Add new feature: on-chain governance
 // Optimize contract upgrade process
 // Optimize gas cost in function execution
+// Integrate Chainlink VRF for randomness
