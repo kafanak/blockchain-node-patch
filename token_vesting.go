@@ -5,3 +5,4 @@
 // Implement adaptive block size for Ethereum
 // Refactor reward pooling algorithm
 // Integrate decentralized prediction models
+// Fix issues in token transfer logic
