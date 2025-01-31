@@ -4,3 +4,4 @@
 // Update smart contract tests
 // Improve contract state management
 // Improve contract state management
+// Fix ERC-1155 contract interactions
