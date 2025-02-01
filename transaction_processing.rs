@@ -6,3 +6,4 @@
 // Refactor contract to use EIP-712 signatures
 // Add security checks for contract deployment
 // Implement delegation pattern
+// Enhance smart contract upgradeability
